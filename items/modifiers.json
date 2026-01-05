@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Goal",
+    "type": "progressive",
+    "loop": true,
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "codes": "goal",
+    "stages": [
+      {
+        "img": "images/32c.png",
+        "codes": "32c"
+      },
+      {
+        "img": "images/64c.png",
+        "codes": "64c"
+      }
+    ]
+  },
+  {
+    "name": "Knowledge Logic",
+    "type": "progressive",
+    "loop": true,
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "codes": "knowledge",
+    "stages": [
+      {
+        "name": "Knowledge Logic Enabled",
+        "img": "images/knowledge.png"
+      },
+      {
+        "name": "Knowledge Logic Disabled",
+        "img": "images/knowledge.png",
+        "img_mods": "@disabled"
+      }
+    ]
+  },
+  {
+    "name": "Shuffled Clock Anti-Cubes",
+    "type": "progressive",
+    "loop": true,
+    "allow_disabled": false,
+    "initial_stage_idx": 1,
+    "codes": "clock_shuffle",
+    "stages": [
+      {
+        "img": "images/clock.png"
+      },
+      {
+        "img": "images/clock.png",
+        "img_mods": "@disabled"
+      }
+    ]
+  },
+  {
+    "name": "Shuffled Heart Cube",
+    "type": "progressive",
+    "codes": "love_shuffle",
+    "loop": true,
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/love.png"
+      },
+      {
+        "img": "images/items/love.png",
+        "img_mods": "@disabled"
+      }
+    ]
+  },
+  {
+    "name": "Auto Tab Switching",
+    "type": "progressive",
+    "codes": "autoswitch",
+    "loop": true,
+    "allow_disabled": false,
+    "initial_stage_idx": 1,
+    "stages": [
+      {
+        "img": "images/autoswitch.png"
+      },
+      {
+        "img": "images/autoswitch.png",
+        "img_mods": "@disabled"
+      }
+    ]
+  }
+]

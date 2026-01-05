@@ -1,0 +1,129 @@
+{
+    "tracker_default": {
+        "type": "container",
+        "content": {
+            "type": "dock",
+            "dropshadow": true,
+            "content": [
+                {
+                    "type": "array",
+                    "dock": "right",
+                    "orientation": "vertical",
+                    "content": [
+                        {
+                            "type": "dock",
+                            "content": [
+                                {
+                                    "type": "group",
+                                    "header": "Collectibles",
+                                    "dock": "top",
+                                    "h_alignment": "center",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "collectibles"
+                                    }
+                                },
+                                {
+                                    "type": "group",
+                                    "header": "Settings",
+                                    "dock": "bottom",
+                                    "h_alignment": "center",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "settings"
+                                    }
+                                },
+                                {
+                                    "type": "group",
+                                    "header": "Doors",
+                                    "dock": "left",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "doors"
+                                    }
+                                },
+                                {
+                                    "type": "group",
+                                    "header": "Items",
+                                    "dock": "right",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "maps_n_artifacts"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Villageville",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "villageville_map"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Memory Core",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "memorycore_map"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Natural Region",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "naturalregion_map"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Industrial District",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "industrialdistrict_map"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Sewers",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "sewers_map"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Cemetery",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "cemetery_map"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Scientific Region",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "scientificregion_map"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

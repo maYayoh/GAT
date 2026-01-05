@@ -1,0 +1,45 @@
+//more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#maps
+[
+    {
+        "name": "villageville_map",
+        "location_size": 76,
+        "location_border_thickness": 2,
+        "img": "images/maps/villageville.png"
+    },
+    {
+        "name": "memorycore_map",
+        "location_size": 76,
+        "location_border_thickness": 2,
+        "img": "images/maps/memorycore.png"
+    },
+    {
+        "name": "naturalregion_map",
+        "location_size": 76,
+        "location_border_thickness": 2,
+        "img": "images/maps/natural.png"
+    },
+    {
+        "name": "industrialdistrict_map",
+        "location_size": 76,
+        "location_border_thickness": 2,
+        "img": "images/maps/industrial.png"
+    },
+    {
+        "name": "sewers_map",
+        "location_size": 76,
+        "location_border_thickness": 2,
+        "img": "images/maps/sewers.png"
+    },
+    {
+        "name": "cemetery_map",
+        "location_size": 76,
+        "location_border_thickness": 2,
+        "img": "images/maps/graveyard.png"
+    },
+    {
+        "name": "scientificregion_map",
+        "location_size": 76,
+        "location_border_thickness": 2,
+        "img": "images/maps/zuruins.png"
+    },
+]

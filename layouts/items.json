@@ -1,0 +1,95 @@
+// sets layouts for shadred items grids
+// bigger example: https://github.com/Cyb3RGER/sm_ap_tracker/blob/main/layouts/items.json
+{
+    "collectibles": {
+        "type": "dock",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_margin": "4,4",
+                "rows": [
+                    [
+                        "total",
+                        "golden",
+                        "anti"
+                    ],
+                    [
+                        "love",
+                        "owls",
+                        "sunglasses"
+                    ]
+                ]
+            }
+        ]
+    },
+    "settings": {
+        "type": "dock",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_margin": "4,4",
+                "rows": [
+                    [
+                        "goal",
+                        "knowledge",
+                        "temp"
+                    ],
+                    [
+                        "clock_shuffle",
+                        "love_shuffle",
+                        "autoswitch"
+                    ]
+                ]
+            }
+        ]
+    },
+    "doors": {
+        "type": "dock",
+        "h_alignment": "center",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_margin": "4,4",
+                "rows": [
+                    ["boiler_room"],
+                    ["arch_room"],
+                    ["belltower_room"],
+                    ["lighthouse_room"],
+                    ["cabin_room"],
+                    ["tree_room"],
+                    ["rail_room"],
+                    ["windmill_room"],
+                    ["mausoleum_room"],
+                    ["sewerhub_room"],
+                    ["sewerpillars_room"],
+                    ["bigthrone_room"]
+                ]
+            }
+        ]
+    },
+    "maps_n_artifacts": {
+        "type": "dock",
+        "h_alignment": "center",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_margin": "4,4",
+                "rows": [
+                    ["writing_cube"],
+                    ["counting_cube"],
+                    ["tome_artifact"],
+                    ["skull_artifact"],
+                    ["cryptA_map"],
+                    ["cryptB_map"],
+                    ["cryptC_map"],
+                    ["cryptD_map"],
+                    ["arch_map"],
+                    ["pivot_map"],
+                    ["tree_map"],
+                    ["qrcode_map"],
+                    ["ritual_map"]
+                ]
+            }
+        ]
+    }
+}

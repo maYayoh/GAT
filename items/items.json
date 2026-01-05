@@ -1,0 +1,201 @@
+[
+  {
+    "name": "Total Cubes",
+    "type": "consumable",
+    "img": "images/items/total.png",
+    "codes": "total",
+    "overlay_background": "#000000",
+    "max_quantity": 64
+  },
+  {
+    "name": "Golden Cubes",
+    "type": "consumable",
+    "img": "images/items/golden.png",
+    "codes": "golden",
+    "overlay_background": "#000000",
+    "max_quantity": 32
+  },
+  {
+    "name": "Anti-Cubes",
+    "type": "consumable",
+    "img": "images/items/anti.png",
+    "codes": "anti",
+    "overlay_background": "#000000",
+    "max_quantity": 32
+  },
+  {
+    "name": "Heart Cubes",
+    "type": "consumable",
+    "img": "images/items/love.png",
+    "codes": "love",
+    "overlay_background": "#000000",
+    "max_quantity": 3
+  },
+  {
+    "name": "Owls",
+    "type": "consumable",
+    "img": "images/items/owl.png",
+    "codes": "owls",
+    "overlay_background": "#000000",
+    "max_quantity": 4
+  },
+  {
+    "name": "Sunglasses",
+    "type": "toggle",
+    "img": "images/items/dealwithit.png",
+    "codes": "sunglasses"
+  },
+
+  {
+    "name": "Boileroom Door Unlocked",
+    "type": "toggle",
+    "img": "images/items/door_boilerroom.png",
+    "codes": "boiler_room"
+  },
+  {
+    "name": "Arch Door Unlocked",
+    "type": "toggle",
+    "img": "images/items/door_arch.png",
+    "codes": "arch_room"
+  },
+  {
+    "name": "Bell Tower Door Unlocked",
+    "type": "toggle",
+    "img": "images/items/door_belltower.png",
+    "codes": "belltower_room"
+  },
+  {
+    "name": "Lighthouse Door Unlocked",
+    "type": "toggle",
+    "img": "images/items/door_lighthouse.png",
+    "codes": "lighthouse_room"
+  },
+  {
+    "name": "Cabin Door Unlocked",
+    "type": "toggle",
+    "img": "images/items/door_cabin.png",
+    "codes": "cabin_room"
+  },
+  {
+    "name": "Tree Door Unlocked",
+    "type": "toggle",
+    "img": "images/items/door_tree.png",
+    "codes": "tree_room"
+  },
+  {
+    "name": "Well Door Unlocked",
+    "type": "toggle",
+    "img": "images/items/door_well.png",
+    "codes": "rail_room"
+  },
+  {
+    "name": "Windmill Door Unlocked",
+    "type": "toggle",
+    "img": "images/items/door_windmill.png",
+    "codes": "windmill_room"
+  },
+  {
+    "name": "Mausoleum Door Unlocked",
+    "type": "toggle",
+    "img": "images/items/door_mausoleum.png",
+    "codes": "mausoleum_room"
+  },
+  {
+    "name": "Sewer Hub Door Unlocked",
+    "type": "toggle",
+    "img": "images/items/door_sewer.png",
+    "codes": "sewerhub_room"
+  },
+  {
+    "name": "Sewer Pillars Door Unlocked",
+    "type": "toggle",
+    "img": "images/items/door_pillars.png",
+    "codes": "sewerpillars_room"
+  },
+  {
+    "name": "Throne Door Unlocked",
+    "type": "toggle",
+    "img": "images/items/door_throne.png",
+    "codes": "bigthrone_room"
+  },
+
+  {
+    "name": "The Writing Cube",
+    "type": "toggle",
+    "img": "images/items/artifact_writing.png",
+    "codes": "writing_cube"
+  },
+  {
+    "name": "The Counting Cube",
+    "type": "toggle",
+    "img": "images/items/artifact_counting.png",
+    "codes": "counting_cube"
+  },
+  {
+    "name": "The Tome Artifact",
+    "type": "toggle",
+    "img": "images/items/artifact_tome.png",
+    "codes": "tome_artifact"
+  },
+  {
+    "name": "The Skull Artifact",
+    "type": "toggle",
+    "img": "images/items/artifact_skull.png",
+    "codes": "skull_artifact"
+  },
+
+  {
+    "name": "Crypt Map A",
+    "type": "toggle",
+    "img": "images/items/map_crypt_a.png",
+    "codes": "cryptA_map"
+  },
+  {
+    "name": "Crypt Map B",
+    "type": "toggle",
+    "img": "images/items/map_crypt_b.png",
+    "codes": "cryptB_map"
+  },
+  {
+    "name": "Crypt Map C",
+    "type": "toggle",
+    "img": "images/items/map_crypt_c.png",
+    "codes": "cryptC_map"
+  },
+  {
+    "name": "Crypt Map D",
+    "type": "toggle",
+    "img": "images/items/map_crypt_d.png",
+    "codes": "cryptD_map"
+  },
+    {
+    "name": "Arch Map",
+    "type": "toggle",
+    "img": "images/items/map_arch.png",
+    "codes": "arch_map"
+  },
+  {
+    "name": "Pivot Map",
+    "type": "toggle",
+    "img": "images/items/map_pivot.png",
+    "codes": "pivot_map"
+  },
+  {
+    "name": "Tree Sky Map",
+    "type": "toggle",
+    "img": "images/items/map_tree_sky.png",
+    "codes": "tree_map"
+  },
+  {
+    "name": "QR Code Map",
+    "type": "toggle",
+    "img": "images/items/map_mystery.png",
+    "codes": "qrcode_map"
+  },
+  {
+    "name": "Ritual Map",
+    "type": "toggle",
+    "img": "images/items/map_ritual.png",
+    "codes": "ritual_map"
+  }
+]

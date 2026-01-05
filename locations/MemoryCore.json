@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Zu House Empty",
+    "access_rules": [],
+    "item_count": 1,
+    "map_locations": [
+      {
+        "map": "memorycore_map",
+        "x": 4319,
+        "y": 1374
+      }
+    ],
+    "sections": [
+      {
+        "ref":"Sewer QR/Throne Anti-Cube\r\nRT RT LT RT RT RT LT LT\r\nRT LT LT LT RT LT RT LT"
+      }
+    ]
+  }
+]

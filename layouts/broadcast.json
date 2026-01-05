@@ -1,0 +1,146 @@
+//sets the layout for the broadcast view
+{
+    "tracker_broadcast": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "dock": "left",
+                "orientation": "horizontal",
+                "content": [
+                    {
+                        "type": "dock",
+                        "content": [
+                            {
+                                "type": "group",
+                                "header": "Collectibles",
+                                "dock": "top",
+                                "content": {
+                                    "type": "dock",
+                                    "content": [
+                                        {
+                                            "type": "itemgrid",
+                                            "item_margin": "4,4",
+                                            "rows": [
+                                                [
+                                                    "total",
+                                                    "golden",
+                                                    "anti"
+                                                ],
+                                                [
+                                                    "love",
+                                                    "owls",
+                                                    "sunglasses"
+                                                ]
+                                            ]
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "type": "group",
+                                "header": "Settings",
+                                "dock": "bottom",
+                                "content": {
+                                    "type": "dock",
+                                    "content": [
+                                        {
+                                            "type": "itemgrid",
+                                            "item_margin": "4,4",
+                                            "rows": [
+                                                [
+                                                    "goal",
+                                                    "knowledge",
+                                                    "temp"
+                                                ],
+                                                [
+                                                    "clock_shuffle",
+                                                    "love_shuffle",
+                                                    "autoswitch"
+                                                ]
+                                            ]
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "dock",
+                        "content": [
+                            {
+                                "type": "group",
+                                "header": "Doors",
+                                "dock": "top",
+                                "content": {
+                                    "type": "dock",
+                                    "h_alignment": "left",
+                                    "content": [
+                                        {
+                                            "type": "itemgrid",
+                                            "item_margin": "4,4",
+                                            "rows": [
+                                                [
+                                                    "boiler_room",
+                                                    "arch_room",
+                                                    "belltower_room",
+                                                    "lighthouse_room",
+                                                    "cabin_room",
+                                                    "tree_room"
+                                                ],
+                                                [
+                                                    "rail_room",
+                                                    "windmill_room",
+                                                    "mausoleum_room",
+                                                    "sewerhub_room",
+                                                    "sewerpillars_room",
+                                                    "bigthrone_room"
+                                                ]
+                                            ]
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "type": "group",
+                                "header": "Maps & Artifacts",
+                                "dock": "bottom",
+                                "content": {
+                                    "type": "dock",
+                                    "content": [
+                                        {
+                                            "type": "itemgrid",
+                                            "item_margin": "4,4",
+                                            "h_alignment": "left",
+                                            "rows": [
+                                                [
+                                                    "writing_cube",
+                                                    "counting_cube",
+                                                    "cryptA_map",
+                                                    "cryptB_map",
+                                                    "cryptC_map",
+                                                    "cryptD_map"
+                                                ],
+                                                [
+                                                    "tome_artifact",
+                                                    "skull_artifact",
+                                                    "arch_map",
+                                                    "pivot_map",
+                                                    "tree_map",
+                                                    "qrcode_map",
+                                                    "ritual_map"
+                                                ]
+                                            ]
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
