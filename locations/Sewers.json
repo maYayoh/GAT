@@ -1,4 +1,22 @@
 [
+    {
+    "name": "Sewers",
+    "access_rules": [],
+    "item_count": 1,
+    "map_locations": [
+      {
+        "map": "sewers_map",
+        "x": 4129,
+        "y": 40,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "ref":"Villageville/Achievement Anti-Cube\nRT RT LT RT RT LT LT LT"
+      }
+    ]
+  },
   {
     "name": "Sewer Start",
     "access_rules": [],

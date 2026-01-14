@@ -1,5 +1,23 @@
 [
   {
+    "name": "Memory Core",
+    "access_rules": [],
+    "item_count": 1,
+    "map_locations": [
+      {
+        "map": "memorycore_map",
+        "x": 5809,
+        "y": 40,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "ref":"Villageville/Achievement Anti-Cube\nRT RT LT RT RT LT LT LT"
+      }
+    ]
+  },
+  {
     "name": "Zu House Empty",
     "access_rules": [],
     "item_count": 1,
