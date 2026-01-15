@@ -13,10 +13,11 @@
     ],
     "sections": [
       {
-        "ref":"Villageville/Achievement Anti-Cube\nRT RT LT RT RT LT LT LT"
+        "ref": "Villageville/Achievement Anti-Cube\nRT RT LT RT RT LT LT LT"
       }
     ]
   },
+  
   {
     "name": "Sewer Start",
     "access_rules": [],
@@ -234,6 +235,25 @@
         "name": "Anti-Cube\nLT LT LT RT LT RT LT RT",
         "chest_unopened_img": "images/icons/anti.png",
         "chest_opened_img": "images/icons/anti_collected.png",
+      }
+    ]
+  },
+  {
+    "name": "Sewer to Lava",
+    "access_rules": [],
+    "item_count": 1,
+    "map_locations": [
+      {
+        "map": "sewers_map",
+        "x": 1659,
+        "y": 1259
+      }
+    ],
+    "sections": [
+      {
+        "name": "Cube Bit",
+        "chest_unopened_img": "images/icons/bit.png",
+        "chest_opened_img": "images/icons/bit_collected.png",
       }
     ]
   },

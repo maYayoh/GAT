@@ -1,0 +1,349 @@
+[
+  {
+    "name": "Cemetery",
+    "access_rules": [],
+    "item_count": 1,
+    "map_locations": [
+      {
+        "map": "cemetery_map",
+        "x": 4044,
+        "y": 40,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "ref": "Villageville/Achievement Anti-Cube\nRT RT LT RT RT LT LT LT"
+      }
+    ]
+  },
+  
+  {
+    "name": "Grave Cabin",
+    "access_rules": [],
+    "item_count": 1,
+    "map_locations": [
+      {
+        "map": "cemetery_map",
+        "x": 3114,
+        "y": 1758
+      }
+    ],
+    "sections": [
+      {
+        "name": "Cube Bit 1",
+        "chest_unopened_img": "images/icons/bit.png",
+        "chest_opened_img": "images/icons/bit_collected.png",
+      },
+      {
+        "name": "Cube Bit 2",
+        "chest_unopened_img": "images/icons/bit.png",
+        "chest_opened_img": "images/icons/bit_collected.png",
+      }
+    ]
+  },
+  {
+    "name": "Graveyard Gate",
+    "access_rules": [],
+    "item_count": 1,
+    "map_locations": [
+      {
+        "map": "cemetery_map",
+        "x": 2455,
+        "y": 1837
+      }
+    ],
+    "sections": [
+      {
+        "name": "Cube Bit 1",
+        "chest_unopened_img": "images/icons/bit.png",
+        "chest_opened_img": "images/icons/bit_collected.png",
+      },
+      {
+        "name": "Cube Bit 2",
+        "chest_unopened_img": "images/icons/bit.png",
+        "chest_opened_img": "images/icons/bit_collected.png",
+      },
+      {
+        "name": "Cube Bit 3",
+        "chest_unopened_img": "images/icons/bit.png",
+        "chest_opened_img": "images/icons/bit_collected.png",
+      },
+      {
+        "name": "Cube Bit 4",
+        "chest_unopened_img": "images/icons/bit.png",
+        "chest_opened_img": "images/icons/bit_collected.png",
+      },
+      {
+        "name": "Cube Bit 5",
+        "chest_unopened_img": "images/icons/bit.png",
+        "chest_opened_img": "images/icons/bit_collected.png",
+      },
+      {
+        "name": "Cube Bit 6",
+        "chest_unopened_img": "images/icons/bit.png",
+        "chest_opened_img": "images/icons/bit_collected.png",
+      },
+      {
+        "name": "Cube Bit 7",
+        "chest_unopened_img": "images/icons/bit.png",
+        "chest_opened_img": "images/icons/bit_collected.png",
+      }
+    ]
+  },
+  {
+    "name": "Skull",
+    "access_rules": [],
+    "item_count": 1,
+    "map_locations": [
+      {
+        "map": "cemetery_map",
+        "x": 2378,
+        "y": 718
+      }
+    ],
+    "sections": [
+      {
+        "name": "Cube Bit 1",
+        "chest_unopened_img": "images/icons/bit.png",
+        "chest_opened_img": "images/icons/bit_collected.png",
+      },
+      {
+        "name": "Cube Bit 2",
+        "chest_unopened_img": "images/icons/bit.png",
+        "chest_opened_img": "images/icons/bit_collected.png",
+      },
+      {
+        "name": "Cube Bit 3",
+        "chest_unopened_img": "images/icons/bit.png",
+        "chest_opened_img": "images/icons/bit_collected.png",
+      }
+    ]
+  },
+  {
+    "name": "Skull B",
+    "access_rules": [],
+    "item_count": 1,
+    "map_locations": [
+      {
+        "map": "cemetery_map",
+        "x": 2341,
+        "y": 200
+      }
+    ],
+    "sections": [
+      {
+        "name": "Anti-Cube",
+        "chest_unopened_img": "images/icons/anti.png",
+        "chest_opened_img": "images/icons/anti_collected.png",
+      }
+    ]
+  },
+  {
+    "name": "Owl",
+    "access_rules": [],
+    "item_count": 1,
+    "map_locations": [
+      {
+        "map": "cemetery_map",
+        "x": 1502,
+        "y": 1881
+      }
+    ],
+    "sections": [
+      {
+        "name": "Cube Bit",
+        "chest_unopened_img": "images/icons/bit.png",
+        "chest_opened_img": "images/icons/bit_collected.png",
+      }
+    ]
+  },
+  {
+    "name": "Big Owl",
+    "access_rules": [],
+    "item_count": 1,
+    "map_locations": [
+      {
+        "map": "cemetery_map",
+        "x": 1502,
+        "y": 2320
+      }
+    ],
+    "sections": [
+      {
+        "name": "Cube Bit",
+        "chest_unopened_img": "images/icons/bit.png",
+        "chest_opened_img": "images/icons/bit_collected.png",
+      },
+      {
+        "name": "Anti-Cube",
+        "chest_unopened_img": "images/icons/anti.png",
+        "chest_opened_img": "images/icons/anti_collected.png",
+      }
+    ]
+  },
+  {
+    "name": "Mausoleum",
+    "access_rules": [],
+    "item_count": 1,
+    "map_locations": [
+      {
+        "map": "cemetery_map",
+        "x": 1337,
+        "y": 1518
+      }
+    ],
+    "sections": [
+      {
+        "name": "Cube Bit 1",
+        "chest_unopened_img": "images/icons/bit.png",
+        "chest_opened_img": "images/icons/bit_collected.png",
+      },
+      {
+        "name": "Cube Bit 2",
+        "chest_unopened_img": "images/icons/bit.png",
+        "chest_opened_img": "images/icons/bit_collected.png",
+      },
+      {
+        "name": "Cube Bit 3",
+        "chest_unopened_img": "images/icons/bit.png",
+        "chest_opened_img": "images/icons/bit_collected.png",
+      },
+      {
+        "name": "Cube Bit 4",
+        "chest_unopened_img": "images/icons/bit.png",
+        "chest_opened_img": "images/icons/bit_collected.png",
+      },
+      {
+        "name": "Chest",
+        "chest_unopened_img": "images/icons/chest.png",
+        "chest_opened_img": "images/icons/chest_collected.png",
+      }
+    ]
+  },
+  {
+    "name": "Tree of Death",
+    "access_rules": [],
+    "item_count": 1,
+    "map_locations": [
+      {
+        "map": "cemetery_map",
+        "x": 1301,
+        "y": 281
+      }
+    ],
+    "sections": [
+      {
+        "name": "Chest",
+        "chest_unopened_img": "images/icons/chest.png",
+        "chest_opened_img": "images/icons/chest_collected.png",
+      }
+    ]
+  },
+  {
+    "name": "Grave Ghost",
+    "access_rules": [],
+    "item_count": 1,
+    "map_locations": [
+      {
+        "map": "cemetery_map",
+        "x": 781,
+        "y": 1360
+      }
+    ],
+    "sections": [
+      {
+        "name": "Cube Bit 1",
+        "chest_unopened_img": "images/icons/bit.png",
+        "chest_opened_img": "images/icons/bit_collected.png",
+      },
+      {
+        "name": "Cube Bit 2",
+        "chest_unopened_img": "images/icons/bit.png",
+        "chest_opened_img": "images/icons/bit_collected.png",
+      }
+    ]
+  },
+  {
+    "name": "Graveyard A",
+    "access_rules": [],
+    "item_count": 1,
+    "map_locations": [
+      {
+        "map": "cemetery_map",
+        "x": 777,
+        "y": 1718
+      }
+    ],
+    "sections": [
+      {
+        "name": "Cube Bit 1",
+        "chest_unopened_img": "images/icons/bit.png",
+        "chest_opened_img": "images/icons/bit_collected.png",
+      },
+      {
+        "name": "Cube Bit 2",
+        "chest_unopened_img": "images/icons/bit.png",
+        "chest_opened_img": "images/icons/bit_collected.png",
+      },
+      {
+        "name": "Cube Bit 3",
+        "chest_unopened_img": "images/icons/bit.png",
+        "chest_opened_img": "images/icons/bit_collected.png",
+      }
+    ]
+  },
+  {
+    "name": "Grave Treasure A",
+    "access_rules": [],
+    "item_count": 1,
+    "map_locations": [
+      {
+        "map": "cemetery_map",
+        "x": 261,
+        "y": 1680
+      }
+    ],
+    "sections": [
+      {
+        "name": "Cube Bit 1",
+        "chest_unopened_img": "images/icons/bit.png",
+        "chest_opened_img": "images/icons/bit_collected.png",
+      },
+      {
+        "name": "Cube Bit 2",
+        "chest_unopened_img": "images/icons/bit.png",
+        "chest_opened_img": "images/icons/bit_collected.png",
+      },
+      {
+        "name": "Golden Cube",
+        "chest_unopened_img": "images/icons/golden.png",
+        "chest_opened_img": "images/icons/golden_collected.png",
+      }
+    ]
+  },
+  {
+    "name": "Grave Lesser Gate",
+    "access_rules": [],
+    "item_count": 1,
+    "map_locations": [
+      {
+        "map": "cemetery_map",
+        "x": 741,
+        "y": 2160
+      }
+    ],
+    "sections": [
+      {
+        "name": "Cube Bit",
+        "chest_unopened_img": "images/icons/bit.png",
+        "chest_opened_img": "images/icons/bit_collected.png",
+      },
+      {
+        "name": "Golden Cube",
+        "chest_unopened_img": "images/icons/golden.png",
+        "chest_opened_img": "images/icons/golden_collected.png",
+      }
+    ]
+  }
+]

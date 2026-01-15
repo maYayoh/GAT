@@ -13,7 +13,222 @@
     ],
     "sections": [
       {
-        "ref":"Villageville/Achievement Anti-Cube\nRT RT LT RT RT LT LT LT"
+        "ref": "Villageville/Achievement Anti-Cube\nRT RT LT RT RT LT LT LT"
+      }
+    ]
+  },
+
+  {
+    "name": "Wall Village",
+    "access_rules": [],
+    "item_count": 1,
+    "map_locations": [
+      {
+        "map": "memorycore_map",
+        "x": 1551,
+        "y": 887
+      }
+    ],
+    "sections": [
+      {
+        "name": "Cube Bit",
+        "chest_unopened_img": "images/icons/bit.png",
+        "chest_opened_img": "images/icons/bit_collected.png",
+      }
+    ]
+  },
+  {
+    "name": "Wall School",
+    "access_rules": [],
+    "item_count": 1,
+    "map_locations": [
+      {
+        "map": "memorycore_map",
+        "x": 636,
+        "y": 211
+      }
+    ],
+    "sections": [
+      {
+        "name": "Cube Bit",
+        "chest_unopened_img": "images/icons/bit.png",
+        "chest_opened_img": "images/icons/bit_collected.png",
+      }
+    ]
+  },
+  {
+    "name": "Wall Kitchen",
+    "access_rules": [],
+    "item_count": 1,
+    "map_locations": [
+      {
+        "map": "memorycore_map",
+        "x": 636,
+        "y": 492
+      }
+    ],
+    "sections": [
+      {
+        "name": "Cube Bit",
+        "chest_unopened_img": "images/icons/bit.png",
+        "chest_opened_img": "images/icons/bit_collected.png",
+      }
+    ]
+  },
+  {
+    "name": "Wall Interior A",
+    "access_rules": [],
+    "item_count": 1,
+    "map_locations": [
+      {
+        "map": "memorycore_map",
+        "x": 636,
+        "y": 1332
+      }
+    ],
+    "sections": [
+      {
+        "name": "Cube Bit",
+        "chest_unopened_img": "images/icons/bit.png",
+        "chest_opened_img": "images/icons/bit_collected.png",
+      }
+    ]
+  },
+  {
+    "name": "Showers",
+    "access_rules": [],
+    "item_count": 1,
+    "map_locations": [
+      {
+        "map": "memorycore_map",
+        "x": 2078,
+        "y": 2372
+      }
+    ],
+    "sections": [
+      {
+        "name": "Cube Bit",
+        "chest_unopened_img": "images/icons/bit.png",
+        "chest_opened_img": "images/icons/bit_collected.png",
+      }
+    ]
+  },
+  {
+    "name": "Nuzu Abandoned A",
+    "access_rules": [],
+    "item_count": 1,
+    "map_locations": [
+      {
+        "map": "memorycore_map",
+        "x": 2717,
+        "y": 2931
+      }
+    ],
+    "sections": [
+      {
+        "name": "Cube Bit",
+        "chest_unopened_img": "images/icons/bit.png",
+        "chest_opened_img": "images/icons/bit_collected.png",
+      }
+    ]
+  },
+  {
+    "name": "Nuzu School",
+    "access_rules": [],
+    "item_count": 1,
+    "map_locations": [
+      {
+        "map": "memorycore_map",
+        "x": 3037,
+        "y": 2931
+      }
+    ],
+    "sections": [
+      {
+        "name": "Anti-Cube\nUp Left RT A LT Right A Down",
+        "chest_unopened_img": "images/icons/anti.png",
+        "chest_opened_img": "images/icons/anti_collected.png",
+      }
+    ]
+  },
+  {
+    "name": "Zu City",
+    "access_rules": [],
+    "item_count": 1,
+    "map_locations": [
+      {
+        "map": "memorycore_map",
+        "x": 5849,
+        "y": 3128
+      }
+    ],
+    "sections": [
+      {
+        "name": "Cube Bit 1",
+        "chest_unopened_img": "images/icons/bit.png",
+        "chest_opened_img": "images/icons/bit_collected.png",
+      },
+      {
+        "name": "Cube Bit 2",
+        "chest_unopened_img": "images/icons/bit.png",
+        "chest_opened_img": "images/icons/bit_collected.png",
+      }
+    ]
+  },
+  {
+    "name": "Oldschool",
+    "access_rules": [],
+    "item_count": 1,
+    "map_locations": [
+      {
+        "map": "memorycore_map",
+        "x": 4319,
+        "y": 172
+      }
+    ],
+    "sections": [
+      {
+        "name": "Cube Bit",
+        "chest_unopened_img": "images/icons/bit.png",
+        "chest_opened_img": "images/icons/bit_collected.png",
+      }
+    ]
+  },
+  {
+    "name": "Zu House Empty B",
+    "access_rules": [],
+    "item_count": 1,
+    "map_locations": [
+      {
+        "map": "memorycore_map",
+        "x": 5117,
+        "y": 493
+      }
+    ],
+    "sections": [
+      {
+        "name": "Chest",
+        "chest_unopened_img": "images/icons/chest.png",
+        "chest_opened_img": "images/icons/chest_collected.png",
+      }
+    ]
+  },
+  {
+    "name": "Zu House Scaffolding",
+    "access_rules": [],
+    "item_count": 1,
+    "map_locations": [
+      {
+        "map": "memorycore_map",
+        "x": 5117,
+        "y": 771
+      }
+    ],
+    "sections": [
+      {
+        "name": "Cube Bit",
+        "chest_unopened_img": "images/icons/bit.png",
+        "chest_opened_img": "images/icons/bit_collected.png",
       }
     ]
   },
@@ -29,6 +244,11 @@
       }
     ],
     "sections": [
+      {
+        "name": "Cube Bit",
+        "chest_unopened_img": "images/icons/bit.png",
+        "chest_opened_img": "images/icons/bit_collected.png",
+      },
       {
         "ref":"Sewer QR/Throne Anti-Cube\r\nRT RT LT RT RT RT LT LT\r\nRT LT LT LT RT LT RT LT"
       }
