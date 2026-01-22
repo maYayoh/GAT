@@ -1,11 +1,11 @@
 [
   {
-    "name": "Memory Core",
+    "name": "Industrial District",
     "access_rules": [],
     "item_count": 1,
     "map_locations": [
       {
-        "map": "memorycore_map",
+        "map": "industrialdistrict_map",
         "x": 5809,
         "y": 40,
         "shape": "diamond"
@@ -19,9 +19,9 @@
   },
 
   {
-    "name": "WALL VILLAGE",
+    "name": "INDUSTRIAL DISTRICT",
     "item_count": 1,
-    "access_rules": ["total:4"],
+    "access_rules": ["lighthouse_room"],
     "children": [
       {
         "name": "Wall Village",

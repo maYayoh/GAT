@@ -83,6 +83,12 @@
     "codes": "tree_room"
   },
   {
+    "name": "Throne Door Unlocked",
+    "type": "toggle",
+    "img": "images/items/door_throne.png",
+    "codes": "bigthrone_room"
+  },
+  {
     "name": "Well Door Unlocked",
     "type": "toggle",
     "img": "images/items/door_well.png",
@@ -111,12 +117,6 @@
     "type": "toggle",
     "img": "images/items/door_pillars.png",
     "codes": "sewerpillars_room"
-  },
-  {
-    "name": "Throne Door Unlocked",
-    "type": "toggle",
-    "img": "images/items/door_throne.png",
-    "codes": "bigthrone_room"
   },
 
   {

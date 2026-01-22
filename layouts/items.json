@@ -57,12 +57,12 @@
                     ["lighthouse_room"],
                     ["cabin_room"],
                     ["tree_room"],
+                    ["bigthrone_room"],
                     ["rail_room"],
                     ["windmill_room"],
                     ["mausoleum_room"],
                     ["sewerhub_room"],
-                    ["sewerpillars_room"],
-                    ["bigthrone_room"]
+                    ["sewerpillars_room"]
                 ]
             }
         ]

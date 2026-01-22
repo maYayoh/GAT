@@ -1,27 +1,26 @@
 [
   {
-    "name": "Villageville",
+    "name": "Memory Core",
+    "access_rules": [],
     "item_count": 1,
     "map_locations": [
       {
-        "map": "villageville_map",
-        "x": 2888,
+        "map": "scientificregion_map",
+        "x": 5809,
         "y": 40,
         "shape": "diamond"
       }
     ],
     "sections": [
       {
-        "name": "Achievement Anti-Cube\nRT RT LT RT RT LT LT LT",
-        "chest_unopened_img": "images/icons/anti.png",
-        "chest_opened_img": "images/icons/anti_collected.png",
+        "ref": "Villageville/Achievement Anti-Cube\nRT RT LT RT RT LT LT LT"
       }
     ]
   },
   
   {
     "name": "Big Tower",
-    "access_rules": ["total:1"],
+    "access_rules": [],
     "item_count": 1,
     "map_locations": [
       {
@@ -75,6 +74,7 @@
   },
   {
     "name": "Villageville",
+    "access_rules": [],
     "item_count": 1,
     "map_locations": [
       {
@@ -113,6 +113,7 @@
   },
   {
     "name": "Kitchen",
+    "access_rules": [],
     "item_count": 1,
     "map_locations": [
       {
@@ -131,6 +132,7 @@
   },
   {
     "name": "Parlor",
+    "access_rules": [],
     "item_count": 1,
     "map_locations": [
       {
@@ -154,6 +156,7 @@
   },
   {
     "name": "School",
+    "access_rules": [],
     "item_count": 1,
     "map_locations": [
       {
@@ -172,7 +175,7 @@
   },
   {
     "name": "Boileroom",
-    "access_rules": ["boiler_room"],
+    "access_rules": [],
     "item_count": 1,
     "map_locations": [
       {
@@ -196,6 +199,7 @@
   },
   {
     "name": "Abandoned A",
+    "access_rules": [],
     "item_count": 1,
     "map_locations": [
       {
@@ -214,6 +218,7 @@
   },
   {
     "name": "Abandoned B",
+    "access_rules": [],
     "item_count": 1,
     "map_locations": [
       {

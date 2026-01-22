@@ -1,5 +1,5 @@
 [
-    {
+  {
     "name": "Sewers",
     "access_rules": [],
     "item_count": 1,
@@ -33,7 +33,7 @@
       {
         "name": "Cube Bit",
         "chest_unopened_img": "images/icons/bit.png",
-        "chest_opened_img": "images/icons/bit_collected.png",
+        "chest_opened_img": "images/icons/bit_collected.png"
       }
     ]
   },
@@ -52,12 +52,12 @@
       {
         "name": "Cube Bit 1",
         "chest_unopened_img": "images/icons/bit.png",
-        "chest_opened_img": "images/icons/bit_collected.png",
+        "chest_opened_img": "images/icons/bit_collected.png"
       },
       {
         "name": "Cube Bit 2",
         "chest_unopened_img": "images/icons/bit.png",
-        "chest_opened_img": "images/icons/bit_collected.png",
+        "chest_opened_img": "images/icons/bit_collected.png"
       }
     ]
   },
@@ -76,7 +76,7 @@
       {
         "name": "Chest",
         "chest_unopened_img": "images/icons/chest.png",
-        "chest_opened_img": "images/icons/chest_collected.png",
+        "chest_opened_img": "images/icons/chest_collected.png"
       }
     ]
   },
@@ -95,18 +95,18 @@
       {
         "name": "Cube Bit",
         "chest_unopened_img": "images/icons/bit.png",
-        "chest_opened_img": "images/icons/bit_collected.png",
+        "chest_opened_img": "images/icons/bit_collected.png"
       },
       {
         "name": "Chest",
         "chest_unopened_img": "images/icons/chest.png",
-        "chest_opened_img": "images/icons/chest_collected.png",
+        "chest_opened_img": "images/icons/chest_collected.png"
       }
     ]
   },
   {
     "name": "Sewer QR",
-    "access_rules": [],
+    "access_rules": ["sewerhub_room"],
     "item_count": 1,
     "map_locations": [
       {
@@ -119,12 +119,13 @@
       {
         "name": "Cube Bit",
         "chest_unopened_img": "images/icons/bit.png",
-        "chest_opened_img": "images/icons/bit_collected.png",
+        "chest_opened_img": "images/icons/bit_collected.png"
       },
       {
         "name": "Throne Anti-Cube\r\nRT RT LT RT RT RT LT LT\r\nRT LT LT LT RT LT RT LT",
         "chest_unopened_img": "images/icons/anti.png",
         "chest_opened_img": "images/icons/anti_collected.png",
+        "access_rules": ["total:16", "bigthrone_room", "sewerhub_room"]
       }
     ]
   },
@@ -143,7 +144,7 @@
       {
         "name": "Cube Bit",
         "chest_unopened_img": "images/icons/bit.png",
-        "chest_opened_img": "images/icons/bit_collected.png",
+        "chest_opened_img": "images/icons/bit_collected.png"
       }
     ]
   },
@@ -162,17 +163,17 @@
       {
         "name": "Cube Bit 1",
         "chest_unopened_img": "images/icons/bit.png",
-        "chest_opened_img": "images/icons/bit_collected.png",
+        "chest_opened_img": "images/icons/bit_collected.png"
       },
       {
         "name": "Cube Bit 2",
         "chest_unopened_img": "images/icons/bit.png",
-        "chest_opened_img": "images/icons/bit_collected.png",
+        "chest_opened_img": "images/icons/bit_collected.png"
       },
       {
         "name": "Cube Bit 3",
         "chest_unopened_img": "images/icons/bit.png",
-        "chest_opened_img": "images/icons/bit_collected.png",
+        "chest_opened_img": "images/icons/bit_collected.png"
       }
     ]
   },
@@ -191,7 +192,7 @@
       {
         "name": "Chest",
         "chest_unopened_img": "images/icons/chest.png",
-        "chest_opened_img": "images/icons/chest_collected.png",
+        "chest_opened_img": "images/icons/chest_collected.png"
       }
     ]
   },
@@ -210,7 +211,7 @@
       {
         "name": "Golden Cube",
         "chest_unopened_img": "images/icons/golden.png",
-        "chest_opened_img": "images/icons/golden_collected.png",
+        "chest_opened_img": "images/icons/golden_collected.png"
       }
     ]
   },
@@ -234,7 +235,7 @@
       {
         "name": "Anti-Cube\nLT LT LT RT LT RT LT RT",
         "chest_unopened_img": "images/icons/anti.png",
-        "chest_opened_img": "images/icons/anti_collected.png",
+        "chest_opened_img": "images/icons/anti_collected.png"
       }
     ]
   },
@@ -253,7 +254,7 @@
       {
         "name": "Cube Bit",
         "chest_unopened_img": "images/icons/bit.png",
-        "chest_opened_img": "images/icons/bit_collected.png",
+        "chest_opened_img": "images/icons/bit_collected.png"
       }
     ]
   },
@@ -272,7 +273,7 @@
       {
         "name": "Anti-Cube\nLT LT RT LT LT RT RT RT",
         "chest_unopened_img": "images/icons/anti.png",
-        "chest_opened_img": "images/icons/anti_collected.png",
+        "chest_opened_img": "images/icons/anti_collected.png"
       }
     ]
   },
@@ -291,7 +292,7 @@
       {
         "name": "Anti-Cube",
         "chest_unopened_img": "images/icons/anti.png",
-        "chest_opened_img": "images/icons/anti_collected.png",
+        "chest_opened_img": "images/icons/anti_collected.png"
       }
     ]
   },
