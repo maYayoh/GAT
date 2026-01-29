@@ -1,298 +1,287 @@
 [
-    {
-    "name": "Sewers",
-    "access_rules": [],
-    "item_count": 1,
-    "map_locations": [
-      {
-        "map": "sewers_map",
-        "x": 4129,
-        "y": 40,
-        "shape": "diamond"
-      }
-    ],
-    "sections": [
-      {
-        "ref": "Villageville/Achievement Anti-Cube\nRT RT LT RT RT LT LT LT"
-      }
-    ]
-  },
-  
   {
-    "name": "Sewer Start",
-    "access_rules": [],
+    "name": "SEWERS",
     "item_count": 1,
-    "map_locations": [
+    "access_rules": ["total:2,lighthouse_room,rail_room"],
+    "children": [
       {
-        "map": "sewers_map",
-        "x": 3739,
-        "y": 859
-      }
-    ],
-    "sections": [
-      {
-        "name": "Cube Bit",
-        "chest_unopened_img": "images/icons/bit.png",
-        "chest_opened_img": "images/icons/bit_collected.png",
-      }
-    ]
-  },
-  {
-    "name": "Sewer Hub",
-    "access_rules": [],
-    "item_count": 1,
-    "map_locations": [
-      {
-        "map": "sewers_map",
-        "x": 2777,
-        "y": 937
-      }
-    ],
-    "sections": [
-      {
-        "name": "Cube Bit 1",
-        "chest_unopened_img": "images/icons/bit.png",
-        "chest_opened_img": "images/icons/bit_collected.png",
+        "name": "Sewer Start",
+        "access_rules": [],
+        "item_count": 1,
+        "map_locations": [
+          {
+            "map": "sewers_map",
+            "x": 3739,
+            "y": 859
+          }
+        ],
+        "sections": [
+          {
+            "name": "Cube Bit",
+            "chest_unopened_img": "images/icons/bit.png",
+            "chest_opened_img": "images/icons/bit_collected.png"
+          }
+        ]
       },
       {
-        "name": "Cube Bit 2",
-        "chest_unopened_img": "images/icons/bit.png",
-        "chest_opened_img": "images/icons/bit_collected.png",
-      }
-    ]
-  },
-  {
-    "name": "Sewer Treasure One",
-    "access_rules": [],
-    "item_count": 1,
-    "map_locations": [
-      {
-        "map": "sewers_map",
-        "x": 2823,
-        "y": 1583
-      }
-    ],
-    "sections": [
-      {
-        "name": "Chest",
-        "chest_unopened_img": "images/icons/chest.png",
-        "chest_opened_img": "images/icons/chest_collected.png",
-      }
-    ]
-  },
-  {
-    "name": "Sewer Pivot",
-    "access_rules": [],
-    "item_count": 1,
-    "map_locations": [
-      {
-        "map": "sewers_map",
-        "x": 2499,
-        "y": 1819
-      }
-    ],
-    "sections": [
-      {
-        "name": "Cube Bit",
-        "chest_unopened_img": "images/icons/bit.png",
-        "chest_opened_img": "images/icons/bit_collected.png",
+        "name": "Sewer Hub",
+        "access_rules": [],
+        "item_count": 1,
+        "map_locations": [
+          {
+            "map": "sewers_map",
+            "x": 2777,
+            "y": 938
+          }
+        ],
+        "sections": [
+          {
+            "name": "Cube Bit 1",
+            "chest_unopened_img": "images/icons/bit.png",
+            "chest_opened_img": "images/icons/bit_collected.png"
+          },
+          {
+            "name": "Cube Bit 2",
+            "chest_unopened_img": "images/icons/bit.png",
+            "chest_opened_img": "images/icons/bit_collected.png"
+          }
+        ]
       },
       {
-        "name": "Chest",
-        "chest_unopened_img": "images/icons/chest.png",
-        "chest_opened_img": "images/icons/chest_collected.png",
-      }
-    ]
-  },
-  {
-    "name": "Sewer QR",
-    "access_rules": [],
-    "item_count": 1,
-    "map_locations": [
-      {
-        "map": "sewers_map",
-        "x": 1823,
-        "y": 543
-      }
-    ],
-    "sections": [
-      {
-        "name": "Cube Bit",
-        "chest_unopened_img": "images/icons/bit.png",
-        "chest_opened_img": "images/icons/bit_collected.png",
+        "name": "Sewer Treasure One",
+        "access_rules": [],
+        "item_count": 1,
+        "map_locations": [
+          {
+            "map": "sewers_map",
+            "x": 2823,
+            "y": 1583
+          }
+        ],
+        "sections": [
+          {
+            "name": "Chest",
+            "chest_unopened_img": "images/icons/chest.png",
+            "chest_opened_img": "images/icons/chest_collected.png"
+          }
+        ]
       },
       {
-        "name": "Throne Anti-Cube\r\nRT RT LT RT RT RT LT LT\r\nRT LT LT LT RT LT RT LT",
-        "chest_unopened_img": "images/icons/anti.png",
-        "chest_opened_img": "images/icons/anti_collected.png",
-      }
-    ]
-  },
-  {
-    "name": "Sewer Geyser",
-    "access_rules": [],
-    "item_count": 1,
-    "map_locations": [
-      {
-        "map": "sewers_map",
-        "x": 1659,
-        "y": 859
-      }
-    ],
-    "sections": [
-      {
-        "name": "Cube Bit",
-        "chest_unopened_img": "images/icons/bit.png",
-        "chest_opened_img": "images/icons/bit_collected.png",
-      }
-    ]
-  },
-  {
-    "name": "Sewer Pillars",
-    "access_rules": [],
-    "item_count": 1,
-    "map_locations": [
-      {
-        "map": "sewers_map",
-        "x": 939,
-        "y": 859
-      }
-    ],
-    "sections": [
-      {
-        "name": "Cube Bit 1",
-        "chest_unopened_img": "images/icons/bit.png",
-        "chest_opened_img": "images/icons/bit_collected.png",
+        "name": "Sewer Pivot",
+        "access_rules": [],
+        "item_count": 1,
+        "map_locations": [
+          {
+            "map": "sewers_map",
+            "x": 2499,
+            "y": 1819
+          }
+        ],
+        "sections": [
+          {
+            "name": "Cube Bit",
+            "chest_unopened_img": "images/icons/bit.png",
+            "chest_opened_img": "images/icons/bit_collected.png"
+          },
+          {
+            "name": "Chest",
+            "chest_unopened_img": "images/icons/chest.png",
+            "chest_opened_img": "images/icons/chest_collected.png"
+          }
+        ]
       },
       {
-        "name": "Cube Bit 2",
-        "chest_unopened_img": "images/icons/bit.png",
-        "chest_opened_img": "images/icons/bit_collected.png",
+        "name": "Sewer QR",
+        "access_rules": ["sewerhub_room"],
+        "item_count": 1,
+        "map_locations": [
+          {
+            "map": "sewers_map",
+            "x": 1823,
+            "y": 543
+          }
+        ],
+        "sections": [
+          {
+            "name": "Cube Bit",
+            "chest_unopened_img": "images/icons/bit.png",
+            "chest_opened_img": "images/icons/bit_collected.png"
+          },
+          {
+            "name": "Throne Anti-Cube\r\nRT RT LT RT RT RT LT LT\r\nRT LT LT LT RT LT RT LT",
+            "chest_unopened_img": "images/icons/anti.png",
+            "chest_opened_img": "images/icons/anti_collected.png"
+          }
+        ]
       },
       {
-        "name": "Cube Bit 3",
-        "chest_unopened_img": "images/icons/bit.png",
-        "chest_opened_img": "images/icons/bit_collected.png",
-      }
-    ]
-  },
-  {
-    "name": "Sewer Treasure Two",
-    "access_rules": [],
-    "item_count": 1,
-    "map_locations": [
-      {
-        "map": "sewers_map",
-        "x": 903,
-        "y": 341
-      }
-    ],
-    "sections": [
-      {
-        "name": "Chest",
-        "chest_unopened_img": "images/icons/chest.png",
-        "chest_opened_img": "images/icons/chest_collected.png",
-      }
-    ]
-  },
-  {
-    "name": "Sewer Lesser Gate B",
-    "access_rules": [],
-    "item_count": 1,
-    "map_locations": [
-      {
-        "map": "sewers_map",
-        "x": 223,
-        "y": 703
-      }
-    ],
-    "sections": [
-      {
-        "name": "Golden Cube",
-        "chest_unopened_img": "images/icons/golden.png",
-        "chest_opened_img": "images/icons/golden_collected.png",
-      }
-    ]
-  },
-  {
-    "name": "Sewer Fork",
-    "access_rules": [],
-    "item_count": 1,
-    "map_locations": [
-      {
-        "map": "sewers_map",
-        "x": 223,
-        "y": 943
-      }
-    ],
-    "sections": [
-      {
-        "name": "Cube Bit",
-        "chest_unopened_img": "images/icons/bit.png",
-        "chest_opened_img": "images/icons/bit_collected.png",
+        "name": "Sewer Geyser",
+        "access_rules": [],
+        "item_count": 1,
+        "map_locations": [
+          {
+            "map": "sewers_map",
+            "x": 1659,
+            "y": 859
+          }
+        ],
+        "sections": [
+          {
+            "name": "Cube Bit",
+            "chest_unopened_img": "images/icons/bit.png",
+            "chest_opened_img": "images/icons/bit_collected.png"
+          }
+        ]
       },
       {
-        "name": "Anti-Cube\nLT LT LT RT LT RT LT RT",
-        "chest_unopened_img": "images/icons/anti.png",
-        "chest_opened_img": "images/icons/anti_collected.png",
+        "name": "Sewer Pillars",
+        "access_rules": [],
+        "item_count": 1,
+        "map_locations": [
+          {
+            "map": "sewers_map",
+            "x": 939,
+            "y": 859
+          }
+        ],
+        "sections": [
+          {
+            "name": "Cube Bit 1",
+            "chest_unopened_img": "images/icons/bit.png",
+            "chest_opened_img": "images/icons/bit_collected.png"
+          },
+          {
+            "name": "Cube Bit 2",
+            "chest_unopened_img": "images/icons/bit.png",
+            "chest_opened_img": "images/icons/bit_collected.png"
+          },
+          {
+            "name": "Cube Bit 3",
+            "chest_unopened_img": "images/icons/bit.png",
+            "chest_opened_img": "images/icons/bit_collected.png"
+          }
+        ]
+      },
+      {
+        "name": "Sewer Treasure Two",
+        "access_rules": [],
+        "item_count": 1,
+        "map_locations": [
+          {
+            "map": "sewers_map",
+            "x": 903,
+            "y": 341
+          }
+        ],
+        "sections": [
+          {
+            "name": "Chest",
+            "chest_unopened_img": "images/icons/chest.png",
+            "chest_opened_img": "images/icons/chest_collected.png"
+          }
+        ]
+      },
+      {
+        "name": "Sewer Lesser Gate B",
+        "access_rules": [],
+        "item_count": 1,
+        "map_locations": [
+          {
+            "map": "sewers_map",
+            "x": 223,
+            "y": 703
+          }
+        ],
+        "sections": [
+          {
+            "name": "Golden Cube",
+            "chest_unopened_img": "images/icons/golden.png",
+            "chest_opened_img": "images/icons/golden_collected.png"
+          }
+        ]
+      },
+      {
+        "name": "Sewer Fork",
+        "access_rules": ["sewerpillars_room"],
+        "item_count": 1,
+        "map_locations": [
+          {
+            "map": "sewers_map",
+            "x": 223,
+            "y": 943
+          }
+        ],
+        "sections": [
+          {
+            "name": "Anti-Cube\nLT LT LT RT LT RT LT RT",
+            "chest_unopened_img": "images/icons/anti.png",
+            "chest_opened_img": "images/icons/anti_collected.png"
+          },
+          {
+            "name": "Cube Bit",
+            "chest_unopened_img": "images/icons/bit.png",
+            "chest_opened_img": "images/icons/bit_collected.png",
+          }
+          
+        ]
+      },
+      {
+        "name": "Sewer to Lava",
+        "access_rules": [],
+        "item_count": 1,
+        "map_locations": [
+          {
+            "map": "sewers_map",
+            "x": 1659,
+            "y": 1259
+          }
+        ],
+        "sections": [
+          {
+            "name": "Cube Bit",
+            "chest_unopened_img": "images/icons/bit.png",
+            "chest_opened_img": "images/icons/bit_collected.png"
+          }
+        ]
+      },
+      {
+        "name": "Lava Fork",
+        "access_rules": [],
+        "item_count": 1,
+        "map_locations": [
+          {
+            "map": "sewers_map",
+            "x": 943,
+            "y": 1823
+          }
+        ],
+        "sections": [
+          {
+            "name": "Anti-Cube\nLT LT RT LT LT RT RT RT",
+            "chest_unopened_img": "images/icons/anti.png",
+            "chest_opened_img": "images/icons/anti_collected.png"
+          }
+        ]
+      },
+      {
+        "name": "Lava Skull",
+        "access_rules": [],
+        "item_count": 1,
+        "map_locations": [
+          {
+            "map": "sewers_map",
+            "x": 943,
+            "y": 2064
+          }
+        ],
+        "sections": [
+          {
+            "name": "Anti-Cube",
+            "chest_unopened_img": "images/icons/anti.png",
+            "chest_opened_img": "images/icons/anti_collected.png"
+          }
+        ]
       }
     ]
-  },
-  {
-    "name": "Sewer to Lava",
-    "access_rules": [],
-    "item_count": 1,
-    "map_locations": [
-      {
-        "map": "sewers_map",
-        "x": 1659,
-        "y": 1259
-      }
-    ],
-    "sections": [
-      {
-        "name": "Cube Bit",
-        "chest_unopened_img": "images/icons/bit.png",
-        "chest_opened_img": "images/icons/bit_collected.png",
-      }
-    ]
-  },
-  {
-    "name": "Lava Fork",
-    "access_rules": [],
-    "item_count": 1,
-    "map_locations": [
-      {
-        "map": "sewers_map",
-        "x": 943,
-        "y": 1823
-      }
-    ],
-    "sections": [
-      {
-        "name": "Anti-Cube\nLT LT RT LT LT RT RT RT",
-        "chest_unopened_img": "images/icons/anti.png",
-        "chest_opened_img": "images/icons/anti_collected.png",
-      }
-    ]
-  },
-  {
-    "name": "Lava Skull",
-    "access_rules": [],
-    "item_count": 1,
-    "map_locations": [
-      {
-        "map": "sewers_map",
-        "x": 943,
-        "y": 2064
-      }
-    ],
-    "sections": [
-      {
-        "name": "Anti-Cube",
-        "chest_unopened_img": "images/icons/anti.png",
-        "chest_opened_img": "images/icons/anti_collected.png",
-      }
-    ]
-  },
+  }
 ]

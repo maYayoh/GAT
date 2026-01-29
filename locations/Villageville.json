@@ -1,14 +1,56 @@
 [
   {
-    "name": "Villageville",
-    "access_rules": [],
+    "name": "Others",
     "item_count": 1,
     "map_locations": [
       {
         "map": "villageville_map",
-        "x": 2888,
-        "y": 40,
-        "shape": "diamond"
+        "x": 10000,
+        "y": 0,
+        "shape": "diamond",
+        "size": 76
+      },
+      {
+        "map": "memorycore_map",
+        "x": 10000,
+        "y": 0,
+        "shape": "diamond",
+        "size": 112
+      },
+      {
+        "map": "naturalregion_map",
+        "x": 10000,
+        "y": 0,
+        "shape": "diamond",
+        "size": 152
+      },
+      {
+        "map": "industrialdistrict_map",
+        "x": 10000,
+        "y": 0,
+        "shape": "diamond",
+        "size": 112
+      },
+      {
+        "map": "sewers_map",
+        "x": 10000,
+        "y": 0,
+        "shape": "diamond",
+        "size": 96
+      },
+      {
+        "map": "cemetery_map",
+        "x": 10000,
+        "y": 0,
+        "shape": "diamond",
+        "size": 96
+      },
+      {
+        "map": "scientificregion_map",
+        "x": 10000,
+        "y": 0,
+        "shape": "diamond",
+        "size": 152
       }
     ],
     "sections": [
@@ -22,7 +64,7 @@
   
   {
     "name": "Big Tower",
-    "access_rules": [],
+    "access_rules": ["total:1"],
     "item_count": 1,
     "map_locations": [
       {
@@ -76,7 +118,6 @@
   },
   {
     "name": "Villageville",
-    "access_rules": [],
     "item_count": 1,
     "map_locations": [
       {
@@ -115,7 +156,6 @@
   },
   {
     "name": "Kitchen",
-    "access_rules": [],
     "item_count": 1,
     "map_locations": [
       {
@@ -134,7 +174,6 @@
   },
   {
     "name": "Parlor",
-    "access_rules": [],
     "item_count": 1,
     "map_locations": [
       {
@@ -158,7 +197,6 @@
   },
   {
     "name": "School",
-    "access_rules": [],
     "item_count": 1,
     "map_locations": [
       {
@@ -177,7 +215,7 @@
   },
   {
     "name": "Boileroom",
-    "access_rules": [],
+    "access_rules": ["boiler_room"],
     "item_count": 1,
     "map_locations": [
       {
@@ -201,7 +239,6 @@
   },
   {
     "name": "Abandoned A",
-    "access_rules": [],
     "item_count": 1,
     "map_locations": [
       {
@@ -220,7 +257,6 @@
   },
   {
     "name": "Abandoned B",
-    "access_rules": [],
     "item_count": 1,
     "map_locations": [
       {

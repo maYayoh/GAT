@@ -8,12 +8,15 @@
     "codes": "goal",
     "stages": [
       {
+        "name": "32 Cube Ending",
         "img": "images/32c.png",
         "codes": "32c"
       },
       {
+        "name": "64 Cube Ending",
         "img": "images/64c.png",
-        "codes": "64c"
+        "codes": "64c",
+        "inherit_codes": false
       }
     ]
   },
