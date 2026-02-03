@@ -1,5 +1,6 @@
 Tracker:AddLocations("locations/Villageville.json")
 Tracker:AddLocations("locations/MemoryCore.json")
 Tracker:AddLocations("locations/NaturalRegion.json")
+Tracker:AddLocations("locations/IndustrialDistrict.json")
 Tracker:AddLocations("locations/Sewers.json")
 Tracker:AddLocations("locations/Cemetery.json")

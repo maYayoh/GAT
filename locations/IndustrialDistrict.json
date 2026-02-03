@@ -1,0 +1,304 @@
+[
+  {
+    "name": "INDUSTRIAL DISTRICT",
+    "item_count": 1,
+    "access_rules": ["total:2,lighthouse_room"],
+    "children": [
+      {
+        "name": "Watertower Secret",
+        "item_count": 1,
+        "map_locations": [
+          {
+            "map": "industrialdistrict_map",
+            "x": 2656,
+            "y": 3438
+          }
+        ],
+        "sections": [
+          {
+            "name": "Anti-Cube\nRT RT RT LT RT RT RT LT",
+            "chest_unopened_img": "images/icons/anti.png",
+            "chest_opened_img": "images/icons/anti_collected.png",
+          }
+        ]
+      },
+      {
+        "name": "Pivot Watertower",
+        "item_count": 1,
+        "map_locations": [
+          {
+            "map": "industrialdistrict_map",
+            "x": 2212,
+            "y": 2834
+          }
+        ],
+        "sections": [
+          {
+            "name": "Cube Bit",
+            "chest_unopened_img": "images/icons/bit.png",
+            "chest_opened_img": "images/icons/bit_collected.png",
+          },
+          {
+            "name": "Chest",
+            "chest_unopened_img": "images/icons/chest.png",
+            "chest_opened_img": "images/icons/chest_collected.png",
+          }
+        ]
+      },
+      {
+        "name": "Triple Pivot Cave",
+        "item_count": 1,
+        "map_locations": [
+          {
+            "map": "industrialdistrict_map",
+            "x": 1250,
+            "y": 753
+          }
+        ],
+        "sections": [
+          {
+            "name": "Cube Bit 1",
+            "chest_unopened_img": "images/icons/bit.png",
+            "chest_opened_img": "images/icons/bit_collected.png",
+          },
+          {
+            "name": "Cube Bit 2",
+            "chest_unopened_img": "images/icons/bit.png",
+            "chest_opened_img": "images/icons/bit_collected.png",
+          }
+        ]
+      },
+      {
+        "name": "Spinning Plates",
+        "item_count": 1,
+        "map_locations": [
+          {
+            "map": "industrialdistrict_map",
+            "x": 531,
+            "y": 753
+          }
+        ],
+        "sections": [
+          {
+            "name": "Golden Cube",
+            "chest_unopened_img": "images/icons/golden.png",
+            "chest_opened_img": "images/icons/golden_collected.png",
+          },
+          {
+            "name": "Cube Bit",
+            "chest_unopened_img": "images/icons/bit.png",
+            "chest_opened_img": "images/icons/bit_collected.png",
+          }
+        ]
+      },
+      {
+        "name": "Nu Zu Abandoned B",
+        "item_count": 1,
+        "map_locations": [
+          {
+            "map": "industrialdistrict_map",
+            "x": 1895,
+            "y": 758
+          }
+        ],
+        "sections": [
+          {
+            "name": "Cube Bit",
+            "chest_unopened_img": "images/icons/bit.png",
+            "chest_opened_img": "images/icons/bit_collected.png",
+          }
+        ]
+      },
+      {
+        "name": "Indust Abandoned A",
+        "item_count": 1,
+        "map_locations": [
+          {
+            "map": "industrialdistrict_map",
+            "x": 2175,
+            "y": 758
+          }
+        ],
+        "sections": [
+          {
+            "name": "Cube Bit",
+            "chest_unopened_img": "images/icons/bit.png",
+            "chest_opened_img": "images/icons/bit_collected.png",
+          }
+        ]
+      },
+      {
+        "name": "Industrial Superspin",
+        "item_count": 1,
+        "map_locations": [
+          {
+            "map": "industrialdistrict_map",
+            "x": 2612,
+            "y": 593
+          }
+        ],
+        "sections": [
+          {
+            "name": "Cube Bit 1",
+            "chest_unopened_img": "images/icons/bit.png",
+            "chest_opened_img": "images/icons/bit_collected.png",
+          },
+          {
+            "name": "Cube Bit 2",
+            "chest_unopened_img": "images/icons/bit.png",
+            "chest_opened_img": "images/icons/bit_collected.png",
+          },
+          {
+            "name": "Cube Bit 3",
+            "chest_unopened_img": "images/icons/bit.png",
+            "chest_opened_img": "images/icons/bit_collected.png",
+          },
+          {
+            "name": "Chest",
+            "chest_unopened_img": "images/icons/chest.png",
+            "chest_opened_img": "images/icons/chest_collected.png",
+          }
+        ]
+      },
+      {
+        "name": "Superspin Cave",
+        "item_count": 1,
+        "map_locations": [
+          {
+            "map": "industrialdistrict_map",
+            "x": 3054,
+            "y": 557
+          }
+        ],
+        "sections": [
+          {
+            "name": "Golden Cube",
+            "chest_unopened_img": "images/icons/golden.png",
+            "chest_opened_img": "images/icons/golden_collected.png",
+          }
+        ]
+      },
+      {
+        "name": "Pivot One",
+        "item_count": 1,
+        "map_locations": [
+          {
+            "map": "industrialdistrict_map",
+            "x": 3169,
+            "y": 1474
+          }
+        ],
+        "sections": [
+          {
+            "name": "Cube Bit 1",
+            "chest_unopened_img": "images/icons/bit.png",
+            "chest_opened_img": "images/icons/bit_collected.png",
+          },
+          {
+            "name": "Cube Bit 2",
+            "chest_unopened_img": "images/icons/bit.png",
+            "chest_opened_img": "images/icons/bit_collected.png",
+          },
+          {
+            "name": "Cube Bit 3",
+            "chest_unopened_img": "images/icons/bit.png",
+            "chest_opened_img": "images/icons/bit_collected.png",
+          },
+          {
+            "name": "Owl",
+            "chest_unopened_img": "images/icons/misc.png",
+            "chest_opened_img": "images/icons/misc_collected.png",
+          }
+        ]
+      },
+      {
+        "name": "Pivot Two",
+        "item_count": 1,
+        "map_locations": [
+          {
+            "map": "industrialdistrict_map",
+            "x": 3891,
+            "y": 1474
+          }
+        ],
+        "sections": [
+          {
+            "name": "Cube Bit 1",
+            "chest_unopened_img": "images/icons/bit.png",
+            "chest_opened_img": "images/icons/bit_collected.png",
+          },
+          {
+            "name": "Cube Bit 2",
+            "chest_unopened_img": "images/icons/bit.png",
+            "chest_opened_img": "images/icons/bit_collected.png",
+          },
+          {
+            "name": "Cube Bit 3",
+            "chest_unopened_img": "images/icons/bit.png",
+            "chest_opened_img": "images/icons/bit_collected.png",
+          }
+        ]
+      },
+      {
+        "name": "Pivot Three",
+        "item_count": 1,
+        "map_locations": [
+          {
+            "map": "industrialdistrict_map",
+            "x": 3891,
+            "y": 756
+          }
+        ],
+        "sections": [
+          {
+            "name": "Golden Cube",
+            "chest_unopened_img": "images/icons/golden.png",
+            "chest_opened_img": "images/icons/golden_collected.png",
+          }
+        ]
+      },
+      {
+        "name": "Extractor A",
+        "item_count": 1,
+        "map_locations": [
+          {
+            "map": "industrialdistrict_map",
+            "x": 4335,
+            "y": 1438
+          }
+        ],
+        "sections": [
+          {
+            "name": "Cube Bit",
+            "chest_unopened_img": "images/icons/bit.png",
+            "chest_opened_img": "images/icons/bit_collected.png",
+          }
+        ]
+      },
+      {
+        "name": "Windmill Cave",
+        "item_count": 1,
+        "access_rules": ["windmill_room"],
+        "map_locations": [
+          {
+            "map": "industrialdistrict_map",
+            "x": 3133,
+            "y": 2358
+          }
+        ],
+        "sections": [
+          {
+            "name": "Cube Bit",
+            "chest_unopened_img": "images/icons/bit.png",
+            "chest_opened_img": "images/icons/bit_collected.png",
+          },
+          {
+            "name": "Chest",
+            "chest_unopened_img": "images/icons/chest.png",
+            "chest_opened_img": "images/icons/chest_collected.png",
+          }
+        ]
+      }
+    ]
+  }
+]
