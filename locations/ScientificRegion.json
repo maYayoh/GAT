@@ -1,0 +1,401 @@
+[
+  {
+    "name": "SCIENTIFIC REGION",
+    "item_count": 1,
+    "access_rules": ["total:2,bigthrone_room"],
+    "children": [
+      {
+        "name": "Throne",
+        "item_count": 1,
+        "map_locations": [
+          {
+            "map": "scientificregion_map",
+            "x": 1024,
+            "y": 697
+          }
+        ],
+        "sections": [
+          {
+            "name": "Cube Bit",
+            "chest_unopened_img": "images/icons/bit.png",
+            "chest_opened_img": "images/icons/bit_collected.png",
+          }
+        ]
+      },
+      {
+        "name": "Zu Unfold",
+        "item_count": 1,
+        "map_locations": [
+          {
+            "map": "scientificregion_map",
+            "x": 990,
+            "y": 181
+          }
+        ],
+        "sections": [
+          {
+            "name": "Anti-Cube\n▀ ▀ █ ▄ ▄",
+            "chest_unopened_img": "images/icons/anti.png",
+            "chest_opened_img": "images/icons/anti_collected.png",
+          }
+        ]
+      },
+      {
+        "name": "Zu Bridge",
+        "item_count": 1,
+        "map_locations": [
+          {
+            "map": "scientificregion_map",
+            "x": 1745,
+            "y": 697
+          }
+        ],
+        "sections": [
+          {
+            "name": "Anti-Cube\nLeft Left Down Down Right Right Up Up",
+            "chest_unopened_img": "images/icons/anti.png",
+            "chest_opened_img": "images/icons/anti_collected.png",
+          },
+          {
+            "name": "Cube Bit 1",
+            "chest_unopened_img": "images/icons/bit.png",
+            "chest_opened_img": "images/icons/bit_collected.png",
+          },
+          {
+            "name": "Cube Bit 2",
+            "chest_unopened_img": "images/icons/bit.png",
+            "chest_opened_img": "images/icons/bit_collected.png",
+          }
+        ]
+      },
+      {
+        "name": "Zu City Ruins",
+        "item_count": 1,
+        "map_locations": [
+          {
+            "map": "scientificregion_map",
+            "x": 1822,
+            "y": 1456
+          }
+        ],
+        "sections": [
+          {
+            "name": "Chest",
+            "chest_unopened_img": "images/icons/chest.png",
+            "chest_opened_img": "images/icons/chest_collected.png",
+          }
+        ]
+      },
+      {
+        "name": "Purple Lodge Ruin",
+        "item_count": 1,
+        "map_locations": [
+          {
+            "map": "scientificregion_map",
+            "x": 909,
+            "y": 1180
+          }
+        ],
+        "sections": [
+          {
+            "name": "Cube Bit",
+            "chest_unopened_img": "images/icons/bit.png",
+            "chest_opened_img": "images/icons/bit_collected.png",
+          }
+        ]
+      },
+      {
+        "name": "Stargate Ruins",
+        "item_count": 1,
+        "map_locations": [
+          {
+            "map": "scientificregion_map",
+            "x": 909,
+            "y": 1500
+          }
+        ],
+        "sections": [
+          {
+            "name": "Cube Bit 1",
+            "chest_unopened_img": "images/icons/bit.png",
+            "chest_opened_img": "images/icons/bit_collected.png",
+          },
+          {
+            "name": "Cube Bit 2",
+            "chest_unopened_img": "images/icons/bit.png",
+            "chest_opened_img": "images/icons/bit_collected.png",
+          }
+        ]
+      },
+      {
+        "name": "Zu House QR",
+        "item_count": 1,
+        "map_locations": [
+          {
+            "map": "scientificregion_map",
+            "x": 2511,
+            "y": 1180
+          }
+        ],
+        "sections": [
+          {
+            "name": "Anti-Cube\nRT RT LT RT LT LT LT RT",
+            "chest_unopened_img": "images/icons/anti.png",
+            "chest_opened_img": "images/icons/anti_collected.png",
+          }
+        ]
+      },
+      {
+        "name": "Zu House Ruin Visitors",
+        "item_count": 1,
+        "map_locations": [
+          {
+            "map": "scientificregion_map",
+            "x": 2511,
+            "y": 1500
+          }
+        ],
+        "sections": [
+          {
+            "name": "Cube Bit",
+            "chest_unopened_img": "images/icons/bit.png",
+            "chest_opened_img": "images/icons/bit_collected.png",
+          }
+        ]
+      },
+      {
+        "name": "Oldschool Ruins",
+        "item_count": 1,
+        "map_locations": [
+          {
+            "map": "scientificregion_map",
+            "x": 1270,
+            "y": 1894
+          }
+        ],
+        "sections": [
+          {
+            "name": "Cube Bit",
+            "chest_unopened_img": "images/icons/bit.png",
+            "chest_opened_img": "images/icons/bit_collected.png",
+          }
+        ]
+      },
+      {
+        "name": "Zu Throne Ruins",
+        "item_count": 1,
+        "map_locations": [
+          {
+            "map": "scientificregion_map",
+            "x": 1270,
+            "y": 1894
+          }
+        ],
+        "sections": [
+          {
+            "name": "Cube Bit",
+            "chest_unopened_img": "images/icons/bit.png",
+            "chest_opened_img": "images/icons/bit_collected.png",
+          }
+        ]
+      },
+      {
+        "name": "Clock",
+        "item_count": 1,
+        "map_locations": [
+          {
+            "map": "scientificregion_map",
+            "x": 1905,
+            "y": 2130
+          }
+        ],
+        "sections": [
+          {
+            "name": "Golden Cube",
+            "chest_unopened_img": "images/icons/golden.png",
+            "chest_opened_img": "images/icons/golden_collected.png",
+          }
+        ]
+      },
+      {
+        "name": "Zu Library",
+        "item_count": 1,
+        "map_locations": [
+          {
+            "map": "scientificregion_map",
+            "x": 1905,
+            "y": 2600
+          }
+        ],
+        "sections": [
+          {
+            "name": "Cube Bit",
+            "chest_unopened_img": "images/icons/bit.png",
+            "chest_opened_img": "images/icons/bit_collected.png",
+          }
+        ]
+      },
+      {
+        "name": "Globe",
+        "item_count": 1,
+        "map_locations": [
+          {
+            "map": "scientificregion_map",
+            "x": 944,
+            "y": 2600
+          }
+        ],
+        "sections": [
+          {
+            "name": "Cube Bit",
+            "chest_unopened_img": "images/icons/bit.png",
+            "chest_opened_img": "images/icons/bit_collected.png",
+          }
+        ]
+      },
+      {
+        "name": "Globe Int",
+        "item_count": 1,
+        "map_locations": [
+          {
+            "map": "scientificregion_map",
+            "x": 429,
+            "y": 2564
+          }
+        ],
+        "sections": [
+          {
+            "name": "Chest",
+            "chest_unopened_img": "images/icons/chest.png",
+            "chest_opened_img": "images/icons/chest_collected.png",
+          }
+        ]
+      },
+      {
+        "name": "Observatory",
+        "item_count": 1,
+        "map_locations": [
+          {
+            "map": "scientificregion_map",
+            "x": 2304,
+            "y": 2130
+          }
+        ],
+        "sections": [
+          {
+            "name": "Golden Cube",
+            "chest_unopened_img": "images/icons/golden.png",
+            "chest_opened_img": "images/icons/golden_collected.png",
+          }
+        ]
+      },
+      {
+        "name": "Telescope",
+        "item_count": 1,
+        "map_locations": [
+          {
+            "map": "scientificregion_map",
+            "x": 2304,
+            "y": 2600
+          }
+        ],
+        "sections": [
+          {
+            "name": "Anti-Cube\nRight RT Left RT RT A A Right",
+            "chest_unopened_img": "images/icons/anti.png",
+            "chest_opened_img": "images/icons/anti_collected.png",
+          },
+          {
+            "name": "Telescope Heart Cube\nRT LT LT RT RT LT",
+            "chest_unopened_img": "images/icons/heart.png",
+            "chest_opened_img": "images/icons/heart_collected.png",
+          }
+        ]
+      },
+      {
+        "name": "Visitor",
+        "item_count": 1,
+        "map_locations": [
+          {
+            "map": "scientificregion_map",
+            "x": 3024,
+            "y": 2130
+          }
+        ],
+        "sections": [
+          {
+            "name": "Golden Cube",
+            "chest_unopened_img": "images/icons/golden.png",
+            "chest_opened_img": "images/icons/golden_collected.png",
+          },
+          {
+            "name": "Owl",
+            "chest_unopened_img": "images/icons/misc.png",
+            "chest_opened_img": "images/icons/misc_collected.png",
+          }
+        ]
+      },
+      {
+        "name": "Code Machine",
+        "item_count": 1,
+        "map_locations": [
+          {
+            "map": "scientificregion_map",
+            "x": 3745,
+            "y": 2130
+          }
+        ],
+        "sections": [
+          {
+            "name": "Anti-Cube\nUp A RT LT A Down LT RT",
+            "chest_unopened_img": "images/icons/anti.png",
+            "chest_opened_img": "images/icons/anti_collected.png",
+          }
+        ]
+      },
+      {
+        "name": "Orrery B",
+        "item_count": 1,
+        "map_locations": [
+          {
+            "map": "scientificregion_map",
+            "x": 2990,
+            "y": 3044
+          }
+        ],
+        "sections": [
+          {
+            "name": "Chest",
+            "chest_unopened_img": "images/icons/chest.png",
+            "chest_opened_img": "images/icons/chest_collected.png",
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "name": "Tree Sky",
+    "item_count": 1,
+    "access_rules": ["total:2"],
+    "map_locations": [
+      {
+        "map": "scientificregion_map",
+        "x": 303,
+        "y": 697
+      }
+    ],
+    "sections": [
+      {
+        "name": "Anti-Cube\nLT A RT Up Down LT RT A",
+        "chest_unopened_img": "images/icons/anti.png",
+        "chest_opened_img": "images/icons/anti_collected.png",
+      },
+      {
+        "name": "Chest",
+        "chest_unopened_img": "images/icons/chest.png",
+        "chest_opened_img": "images/icons/chest_collected.png",
+      }
+    ]
+  }
+]
