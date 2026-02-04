@@ -181,8 +181,8 @@
             "map_locations": [
               {
                 "map": "naturalregion_map",
-                "x": 2783,
-                "y": 4193
+                "x": 2782,
+                "y": 4192
               }
             ],
             "sections": [
@@ -217,7 +217,7 @@
             "map_locations": [
               {
                 "map": "naturalregion_map",
-                "x": 3863,
+                "x": 3862,
                 "y": 3030
               }
             ],
@@ -259,12 +259,12 @@
               {
                 "map": "naturalregion_map",
                 "x": 1902,
-                "y": 1713
+                "y": 1712
               }
             ],
             "sections": [
               {
-                "name": "Black Monolith Heart Cube",
+                "name": "Black Monolith\nUp RT Up A Down LT Up Down\n\nHeart Cube\nDown Down LT RT RT A Up",
                 "chest_unopened_img": "images/icons/heart.png",
                 "chest_opened_img": "images/icons/heart_collected.png",
               }
@@ -434,7 +434,7 @@
             "map_locations": [
               {
                 "map": "naturalregion_map",
-                "x": 743,
+                "x": 742,
                 "y": 1151
               }
             ],
@@ -634,7 +634,7 @@
               {
                 "name": "Golden Cube",
                 "chest_unopened_img": "images/icons/golden.png",
-                "chest_opened_img": "images/  icons/golden_collected.png",
+                "chest_opened_img": "images/icons/golden_collected.png",
               },
               {
                 "name": "Cube Bit 1",
@@ -701,26 +701,6 @@
                 "name": "Anti-Cube",
                 "chest_unopened_img": "images/icons/anti.png",
                 "chest_opened_img": "images/icons/anti_collected.png",
-              }
-            ]
-          },
-          {
-            "name": "Temple of Love",
-            "item_count": 1,
-            "access_rules": ["total:64"],
-            "visibility_rules": ["64c"],
-            "sections": [
-              {
-                "name": "Goal",
-                "chest_unopened_img": "images/64c.png",
-                "chest_opened_img": "images/stars.png"
-              }
-            ],
-            "map_locations": [
-              {
-                "map": "naturalregion_map",
-                "x": 3863,
-                "y": 1176
               }
             ]
           }

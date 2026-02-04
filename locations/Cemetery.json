@@ -142,6 +142,7 @@
       {
         "name": "Big Owl",
         "item_count": 1,
+        "access_rules": ["owls:4"],
         "map_locations": [
           {
             "map": "cemetery_map",
@@ -151,8 +152,7 @@
         ],
         "sections": [
           {
-            "name": "Owl Anti-Cube",
-            "access_rules": ["owl:4"],
+            "name": "Anti-Cube",
             "chest_unopened_img": "images/icons/anti.png",
             "chest_opened_img": "images/icons/anti_collected.png",
           },

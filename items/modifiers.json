@@ -10,7 +10,8 @@
       {
         "name": "32 Cube Ending",
         "img": "images/32c.png",
-        "codes": "32c"
+        "codes": "32c",
+        "inherit_codes": false
       },
       {
         "name": "64 Cube Ending",

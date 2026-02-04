@@ -252,12 +252,19 @@
   {
     "name": "Stargate",
     "item_count": 1,
-    "access_rules": ["total:32"],
-    "visibility_rules": ["32c"],
     "sections": [
       {
-        "name": "Goal",
+        "name": "Goal - 32 Cubes",
+        "access_rules": ["total:32"],
+        "visibility_rules": ["32c"],
         "chest_unopened_img": "images/32c.png",
+        "chest_opened_img": "images/stars.png"
+      },
+      {
+        "name": "Goal - 64 Cubes",
+        "access_rules": ["total:64"],
+        "visibility_rules": ["64c"],
+        "chest_unopened_img": "images/64c.png",
         "chest_opened_img": "images/stars.png"
       }
     ],
