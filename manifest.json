@@ -1,7 +1,7 @@
 {
-  "name": "FezAP Track Pack",
+  "name": "GAT - FezAP Track Pack",
   "game_name": "Fez",
-  "package_version": "0.1",
+  "package_version": "1.0",
   "package_uid": "fez_track_pack",
   "author": "maYayoh",
   "variants": {
