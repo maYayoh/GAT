@@ -9,7 +9,7 @@
         "item_count": 1,
         "children": [
           {
-            "name": "Natural Hub",
+            "name": "Nature Hub",
             "item_count": 1,
             "map_locations": [
               {
@@ -125,7 +125,7 @@
             ]
           },
           {
-            "name": "Mine Warp",
+            "name": "Mine Wrap",
             "item_count": 1,
             "map_locations": [
               {
@@ -571,6 +571,11 @@
                 "name": "Cube Bit 2",
                 "chest_unopened_img": "images/icons/bit.png",
                 "chest_opened_img": "images/icons/bit_collected.png",
+              },
+              {
+                "name": "Cube Bit 3",
+                "chest_unopened_img": "images/icons/bit.png",
+                "chest_opened_img": "images/icons/bit_collected.png",
               }
             ]
           },
@@ -701,6 +706,26 @@
                 "name": "Anti-Cube",
                 "chest_unopened_img": "images/icons/anti.png",
                 "chest_opened_img": "images/icons/anti_collected.png",
+              }
+            ]
+          },
+          {
+            "name": "Temple of Love",
+            "item_count": 1,
+            "access_rules": ["total:64,love:3,writing_cube,counting_cube"],
+            "visibility_rules": ["hearts"],
+            "sections": [
+              {
+                "name": "Goal",
+                "chest_unopened_img": "images/hearts.png",
+                "chest_opened_img": "images/stars.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "naturalregion_map",
+                "x": 3862,
+                "y": 1176
               }
             ]
           }

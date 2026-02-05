@@ -187,7 +187,7 @@
         "map_locations": [
           {
             "map": "scientificregion_map",
-            "x": 1270,
+            "x": 1550,
             "y": 1894
           }
         ],
@@ -196,6 +196,9 @@
             "name": "Cube Bit",
             "chest_unopened_img": "images/icons/bit.png",
             "chest_opened_img": "images/icons/bit_collected.png",
+          },
+          {
+            "ref": "SEWERS/Sewer QR/Throne Anti-Cube\r\nRT RT LT RT RT RT LT LT\r\nRT LT LT LT RT LT RT LT"
           }
         ]
       },

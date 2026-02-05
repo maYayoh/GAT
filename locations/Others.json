@@ -1,0 +1,64 @@
+[
+  {
+    "name": "Others",
+    "item_count": 1,
+    "map_locations": [
+      {
+        "map": "villageville_map",
+        "x": 10000,
+        "y": 0,
+        "shape": "diamond",
+        "size": 76
+      },
+      {
+        "map": "memorycore_map",
+        "x": 10000,
+        "y": 0,
+        "shape": "diamond",
+        "size": 112
+      },
+      {
+        "map": "naturalregion_map",
+        "x": 10000,
+        "y": 0,
+        "shape": "diamond",
+        "size": 152
+      },
+      {
+        "map": "industrialdistrict_map",
+        "x": 10000,
+        "y": 0,
+        "shape": "diamond",
+        "size": 112
+      },
+      {
+        "map": "sewers_map",
+        "x": 10000,
+        "y": 0,
+        "shape": "diamond",
+        "size": 96
+      },
+      {
+        "map": "cemetery_map",
+        "x": 10000,
+        "y": 0,
+        "shape": "diamond",
+        "size": 96
+      },
+      {
+        "map": "scientificregion_map",
+        "x": 10000,
+        "y": 0,
+        "shape": "diamond",
+        "size": 112
+      }
+    ],
+    "sections": [
+      {
+        "name": "Achievement Anti-Cube\nRT RT LT RT RT LT LT LT",
+        "chest_unopened_img": "images/icons/anti.png",
+        "chest_opened_img": "images/icons/anti_collected.png",
+      }
+    ]
+  }
+]

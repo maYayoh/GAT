@@ -1,275 +1,218 @@
 [
   {
-    "name": "Others",
+    "name": "VILLAGEVILLE",
     "item_count": 1,
-    "map_locations": [
+    "children": [
       {
-        "map": "villageville_map",
-        "x": 10000,
-        "y": 0,
-        "shape": "diamond",
-        "size": 76
+        "name": "Big Tower",
+        "access_rules": ["total:1"],
+        "item_count": 1,
+        "map_locations": [
+          {
+            "map": "villageville_map",
+            "x": 1754,
+            "y": 1859
+          }
+        ],
+        "sections": [
+          {
+            "name": "Cube Bit 1",
+            "chest_unopened_img": "images/icons/bit.png",
+            "chest_opened_img": "images/icons/bit_collected.png",
+          },
+          {
+            "name": "Cube Bit 2",
+            "chest_unopened_img": "images/icons/bit.png",
+            "chest_opened_img": "images/icons/bit_collected.png",
+          },
+          {
+            "name": "Cube Bit 3",
+            "chest_unopened_img": "images/icons/bit.png",
+            "chest_opened_img": "images/icons/bit_collected.png",
+          },
+          {
+            "name": "Cube Bit 4",
+            "chest_unopened_img": "images/icons/bit.png",
+            "chest_opened_img": "images/icons/bit_collected.png",
+          },
+          {
+            "name": "Cube Bit 5",
+            "chest_unopened_img": "images/icons/bit.png",
+            "chest_opened_img": "images/icons/bit_collected.png",
+          },
+          {
+            "name": "Cube Bit 6",
+            "chest_unopened_img": "images/icons/bit.png",
+            "chest_opened_img": "images/icons/bit_collected.png",
+          },
+          {
+            "name": "Cube Bit 7",
+            "chest_unopened_img": "images/icons/bit.png",
+            "chest_opened_img": "images/icons/bit_collected.png",
+          },
+          {
+            "name": "Cube Bit 8",
+            "chest_unopened_img": "images/icons/bit.png",
+            "chest_opened_img": "images/icons/bit_collected.png",
+          }
+        ]
       },
       {
-        "map": "memorycore_map",
-        "x": 10000,
-        "y": 0,
-        "shape": "diamond",
-        "size": 112
+        "name": "Villageville",
+        "item_count": 1,
+        "map_locations": [
+          {
+            "map": "villageville_map",
+            "x": 952,
+            "y": 1058
+          }
+        ],
+        "sections": [
+          {
+            "name": "Cube Bit 1",
+            "chest_unopened_img": "images/icons/bit.png",
+            "chest_opened_img": "images/icons/bit_collected.png",
+          },
+          {
+            "name": "Cube Bit 2",
+            "chest_unopened_img": "images/icons/bit.png",
+            "chest_opened_img": "images/icons/bit_collected.png",
+          },
+          {
+            "name": "Cube Bit 3",
+            "chest_unopened_img": "images/icons/bit.png",
+            "chest_opened_img": "images/icons/bit_collected.png",
+          },
+          {
+            "name": "Cube Bit 4",
+            "chest_unopened_img": "images/icons/bit.png",
+            "chest_opened_img": "images/icons/bit_collected.png",
+          },
+          {
+            "name": "Chest",
+            "chest_unopened_img": "images/icons/chest.png",
+            "chest_opened_img": "images/icons/chest_collected.png",
+          }
+        ]
       },
       {
-        "map": "naturalregion_map",
-        "x": 10000,
-        "y": 0,
-        "shape": "diamond",
-        "size": 152
+        "name": "Kitchen",
+        "item_count": 1,
+        "map_locations": [
+          {
+            "map": "villageville_map",
+            "x": 398,
+            "y": 141
+          }
+        ],
+        "sections": [
+          {
+            "name": "Cube Bit",
+            "chest_unopened_img": "images/icons/bit.png",
+            "chest_opened_img": "images/icons/bit_collected.png",
+          }
+        ]
       },
       {
-        "map": "industrialdistrict_map",
-        "x": 10000,
-        "y": 0,
-        "shape": "diamond",
-        "size": 112
+        "name": "Parlor",
+        "item_count": 1,
+        "map_locations": [
+          {
+            "map": "villageville_map",
+            "x": 678,
+            "y": 141
+          }
+        ],
+        "sections": [
+          {
+            "name": "Anti-Cube\nRT RT LT RT LT LT LT RT",
+            "chest_unopened_img": "images/icons/anti.png",
+            "chest_opened_img": "images/icons/anti_collected.png",
+          },
+          {
+            "name": "Chest",
+            "chest_unopened_img": "images/icons/chest.png",
+            "chest_opened_img": "images/icons/chest_collected.png",
+          }
+        ]
       },
       {
-        "map": "sewers_map",
-        "x": 10000,
-        "y": 0,
-        "shape": "diamond",
-        "size": 96
+        "name": "School",
+        "item_count": 1,
+        "map_locations": [
+          {
+            "map": "villageville_map",
+            "x": 998,
+            "y": 141
+          }
+        ],
+        "sections": [
+          {
+            "name": "Cube Bit",
+            "chest_unopened_img": "images/icons/bit.png",
+            "chest_opened_img": "images/icons/bit_collected.png",
+          }
+        ]
       },
       {
-        "map": "cemetery_map",
-        "x": 10000,
-        "y": 0,
-        "shape": "diamond",
-        "size": 96
+        "name": "Boileroom",
+        "access_rules": ["boiler_room"],
+        "item_count": 1,
+        "map_locations": [
+          {
+            "map": "villageville_map",
+            "x": 1278,
+            "y": 141
+          }
+        ],
+        "sections": [
+          {
+            "name": "Anti-Cube\nUp RT Left A Right LT Down RT",
+            "chest_unopened_img": "images/icons/anti.png",
+            "chest_opened_img": "images/icons/anti_collected.png",
+          },
+          {
+            "name": "Map",
+            "chest_unopened_img": "images/icons/misc.png",
+            "chest_opened_img": "images/icons/misc_collected.png",
+          }
+        ]
       },
       {
-        "map": "scientificregion_map",
-        "x": 10000,
-        "y": 0,
-        "shape": "diamond",
-        "size": 112
-      }
-    ],
-    "sections": [
-      {
-        "name": "Achievement Anti-Cube\nRT RT LT RT RT LT LT LT",
-        "chest_unopened_img": "images/icons/anti.png",
-        "chest_opened_img": "images/icons/anti_collected.png",
-      }
-    ]
-  },
-  
-  {
-    "name": "Big Tower",
-    "access_rules": ["total:1"],
-    "item_count": 1,
-    "map_locations": [
-      {
-        "map": "villageville_map",
-        "x": 1754,
-        "y": 1859
-      }
-    ],
-    "sections": [
-      {
-        "name": "Cube Bit 1",
-        "chest_unopened_img": "images/icons/bit.png",
-        "chest_opened_img": "images/icons/bit_collected.png",
+        "name": "Abandoned A",
+        "item_count": 1,
+        "map_locations": [
+          {
+            "map": "villageville_map",
+            "x": 238,
+            "y": 940
+          }
+        ],
+        "sections": [
+          {
+            "name": "Cube Bit",
+            "chest_unopened_img": "images/icons/bit.png",
+            "chest_opened_img": "images/icons/bit_collected.png",
+          }
+        ]
       },
       {
-        "name": "Cube Bit 2",
-        "chest_unopened_img": "images/icons/bit.png",
-        "chest_opened_img": "images/icons/bit_collected.png",
-      },
-      {
-        "name": "Cube Bit 3",
-        "chest_unopened_img": "images/icons/bit.png",
-        "chest_opened_img": "images/icons/bit_collected.png",
-      },
-      {
-        "name": "Cube Bit 4",
-        "chest_unopened_img": "images/icons/bit.png",
-        "chest_opened_img": "images/icons/bit_collected.png",
-      },
-      {
-        "name": "Cube Bit 5",
-        "chest_unopened_img": "images/icons/bit.png",
-        "chest_opened_img": "images/icons/bit_collected.png",
-      },
-      {
-        "name": "Cube Bit 6",
-        "chest_unopened_img": "images/icons/bit.png",
-        "chest_opened_img": "images/icons/bit_collected.png",
-      },
-      {
-        "name": "Cube Bit 7",
-        "chest_unopened_img": "images/icons/bit.png",
-        "chest_opened_img": "images/icons/bit_collected.png",
-      },
-      {
-        "name": "Cube Bit 8",
-        "chest_unopened_img": "images/icons/bit.png",
-        "chest_opened_img": "images/icons/bit_collected.png",
-      }
-    ]
-  },
-  {
-    "name": "Villageville",
-    "item_count": 1,
-    "map_locations": [
-      {
-        "map": "villageville_map",
-        "x": 952,
-        "y": 1058
-      }
-    ],
-    "sections": [
-      {
-        "name": "Cube Bit 1",
-        "chest_unopened_img": "images/icons/bit.png",
-        "chest_opened_img": "images/icons/bit_collected.png",
-      },
-      {
-        "name": "Cube Bit 2",
-        "chest_unopened_img": "images/icons/bit.png",
-        "chest_opened_img": "images/icons/bit_collected.png",
-      },
-      {
-        "name": "Cube Bit 3",
-        "chest_unopened_img": "images/icons/bit.png",
-        "chest_opened_img": "images/icons/bit_collected.png",
-      },
-      {
-        "name": "Cube Bit 4",
-        "chest_unopened_img": "images/icons/bit.png",
-        "chest_opened_img": "images/icons/bit_collected.png",
-      },
-      {
-        "name": "Chest",
-        "chest_unopened_img": "images/icons/chest.png",
-        "chest_opened_img": "images/icons/chest_collected.png",
-      }
-    ]
-  },
-  {
-    "name": "Kitchen",
-    "item_count": 1,
-    "map_locations": [
-      {
-        "map": "villageville_map",
-        "x": 398,
-        "y": 141
-      }
-    ],
-    "sections": [
-      {
-        "name": "Cube Bit",
-        "chest_unopened_img": "images/icons/bit.png",
-        "chest_opened_img": "images/icons/bit_collected.png",
-      }
-    ]
-  },
-  {
-    "name": "Parlor",
-    "item_count": 1,
-    "map_locations": [
-      {
-        "map": "villageville_map",
-        "x": 678,
-        "y": 141
-      }
-    ],
-    "sections": [
-      {
-        "name": "Anti-Cube\nRT RT LT RT LT LT LT RT",
-        "chest_unopened_img": "images/icons/anti.png",
-        "chest_opened_img": "images/icons/anti_collected.png",
-      },
-      {
-        "name": "Chest",
-        "chest_unopened_img": "images/icons/chest.png",
-        "chest_opened_img": "images/icons/chest_collected.png",
-      }
-    ]
-  },
-  {
-    "name": "School",
-    "item_count": 1,
-    "map_locations": [
-      {
-        "map": "villageville_map",
-        "x": 998,
-        "y": 141
-      }
-    ],
-    "sections": [
-      {
-        "name": "Cube Bit",
-        "chest_unopened_img": "images/icons/bit.png",
-        "chest_opened_img": "images/icons/bit_collected.png",
-      }
-    ]
-  },
-  {
-    "name": "Boileroom",
-    "access_rules": ["boiler_room"],
-    "item_count": 1,
-    "map_locations": [
-      {
-        "map": "villageville_map",
-        "x": 1278,
-        "y": 141
-      }
-    ],
-    "sections": [
-      {
-        "name": "Anti-Cube\nUp RT Left A Right LT Down RT",
-        "chest_unopened_img": "images/icons/anti.png",
-        "chest_opened_img": "images/icons/anti_collected.png",
-      },
-      {
-        "name": "Map",
-        "chest_unopened_img": "images/icons/misc.png",
-        "chest_opened_img": "images/icons/misc_collected.png",
-      }
-    ]
-  },
-  {
-    "name": "Abandoned A",
-    "item_count": 1,
-    "map_locations": [
-      {
-        "map": "villageville_map",
-        "x": 238,
-        "y": 940
-      }
-    ],
-    "sections": [
-      {
-        "name": "Cube Bit",
-        "chest_unopened_img": "images/icons/bit.png",
-        "chest_opened_img": "images/icons/bit_collected.png",
-      }
-    ]
-  },
-  {
-    "name": "Abandoned B",
-    "item_count": 1,
-    "map_locations": [
-      {
-        "map": "villageville_map",
-        "x": 838,
-        "y": 1542
-      }
-    ],
-    "sections": [
-      {
-        "name": "Cube Bit",
-        "chest_unopened_img": "images/icons/bit.png",
-        "chest_opened_img": "images/icons/bit_collected.png",
+        "name": "Abandoned B",
+        "item_count": 1,
+        "map_locations": [
+          {
+            "map": "villageville_map",
+            "x": 838,
+            "y": 1542
+          }
+        ],
+        "sections": [
+          {
+            "name": "Cube Bit",
+            "chest_unopened_img": "images/icons/bit.png",
+            "chest_opened_img": "images/icons/bit_collected.png",
+          }
+        ]
       }
     ]
   }

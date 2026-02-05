@@ -103,7 +103,7 @@
         ]
       },
       {
-        "name": "Nuzu Abandoned A",
+        "name": "Nu Zu Abandoned A",
         "item_count": 1,
         "map_locations": [
           {
@@ -121,7 +121,7 @@
         ]
       },
       {
-        "name": "Nuzu School",
+        "name": "Nu Zu School",
         "item_count": 1,
         "map_locations": [
           {
@@ -240,9 +240,7 @@
             "chest_opened_img": "images/icons/bit_collected.png",
           },
           {
-            "name": "Throne Anti-Cube\r\nRT RT LT RT RT RT LT LT\r\nRT LT LT LT RT LT RT LT",
-            "chest_unopened_img": "images/icons/anti.png",
-            "chest_opened_img": "images/icons/anti_collected.png"
+            "ref": "SEWERS/Sewer QR/Throne Anti-Cube\r\nRT RT LT RT RT RT LT LT\r\nRT LT LT LT RT LT RT LT"
           }
         ]
       }

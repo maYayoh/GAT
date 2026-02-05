@@ -18,25 +18,8 @@
                                 "header": "Collectibles",
                                 "dock": "top",
                                 "content": {
-                                    "type": "dock",
-                                    "content": [
-                                        {
-                                            "type": "itemgrid",
-                                            "item_margin": "4,4",
-                                            "rows": [
-                                                [
-                                                    "total",
-                                                    "golden",
-                                                    "anti"
-                                                ],
-                                                [
-                                                    "love",
-                                                    "owls",
-                                                    "sunglasses"
-                                                ]
-                                            ]
-                                        }
-                                    ]
+                                    "type": "layout",
+                                    "key": "collectibles"
                                 }
                             },
                             {
@@ -44,25 +27,8 @@
                                 "header": "Settings",
                                 "dock": "bottom",
                                 "content": {
-                                    "type": "dock",
-                                    "content": [
-                                        {
-                                            "type": "itemgrid",
-                                            "item_margin": "4,4",
-                                            "rows": [
-                                                [
-                                                    "goal",
-                                                    "knowledge",
-                                                    "temp"
-                                                ],
-                                                [
-                                                    "clock_shuffle",
-                                                    "love_shuffle",
-                                                    "autoswitch"
-                                                ]
-                                            ]
-                                        }
-                                    ]
+                                    "type": "layout",
+                                    "key": "settings"
                                 }
                             }
                         ]
