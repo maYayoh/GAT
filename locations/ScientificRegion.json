@@ -217,6 +217,30 @@
             "name": "Golden Cube",
             "chest_unopened_img": "images/icons/golden.png",
             "chest_opened_img": "images/icons/golden_collected.png",
+          },
+          {
+            "name": "Minute Anti-Cube",
+            "visibility_rules": ["clock_shuffle"],
+            "chest_unopened_img": "images/icons/anti.png",
+            "chest_opened_img": "images/icons/anti_collected.png",
+          },
+          {
+            "name": "Hour Anti-Cube",
+            "visibility_rules": ["clock_shuffle"],
+            "chest_unopened_img": "images/icons/anti.png",
+            "chest_opened_img": "images/icons/anti_collected.png",
+          },
+          {
+            "name": "Day Anti-Cube",
+            "visibility_rules": ["clock_shuffle"],
+            "chest_unopened_img": "images/icons/anti.png",
+            "chest_opened_img": "images/icons/anti_collected.png",
+          },
+          {
+            "name": "Week Anti-Cube",
+            "visibility_rules": ["clock_shuffle"],
+            "chest_unopened_img": "images/icons/anti.png",
+            "chest_opened_img": "images/icons/anti_collected.png",
           }
         ]
       },

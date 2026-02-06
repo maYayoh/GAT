@@ -31,13 +31,7 @@
                 "rows": [
                     [
                         "goal",
-                        "knowledge",
-                        "temp"
-                    ],
-                    [
-                        "clock_shuffle",
-                        "temp",
-                        "autoswitch"
+                        "clock_shuffle"
                     ]
                 ]
             }

@@ -45,15 +45,15 @@
     "type": "progressive",
     "loop": true,
     "allow_disabled": false,
-    "initial_stage_idx": 1,
-    "codes": "clock_shuffle",
+    "initial_stage_idx": 0,
     "stages": [
-      {
-        "img": "images/clock.png"
-      },
       {
         "img": "images/clock.png",
         "img_mods": "@disabled"
+      },
+      {
+        "img": "images/clock.png",
+        "codes": "clock_shuffle"
       }
     ]
   },

@@ -332,6 +332,11 @@
                 "name": "Anti-Cube\nRight RT Left LT Left Up Down A",
                 "chest_unopened_img": "images/icons/anti.png",
                 "chest_opened_img": "images/icons/anti_collected.png",
+              },
+              {
+                "name": "Owl",
+                "chest_unopened_img": "images/icons/misc.png",
+                "chest_opened_img": "images/icons/misc_collected.png",
               }
             ]
           },
