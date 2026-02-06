@@ -6,7 +6,8 @@
   "author": "maYayoh",
   "variants": {
     "standard": {
-      "display_name": "Map Tracker + Anti-Cubes Codes"
+      "display_name": "Map Tracker + Anti-Cubes Codes",
+      "flags": [ "ap" ]
     }
   },
   "min_poptracker_version": "0.26.2"
