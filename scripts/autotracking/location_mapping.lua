@@ -199,6 +199,11 @@ LOCATIONS = {
     { "@Windmill Cave/Chest" },
     { "@Zu City Ruins/Chest" },
     { "@Zu House Empty B/Chest" },
+    { "@Waterfall/Owl" },
+    { "@Visitor/Owl" },
+    { "@Pivot One/Owl" },
+    { "@Tree/Owl" },
+    { "@Boileroom/Map "},
 }
 
 LOCATIONS_MAPPING = {}

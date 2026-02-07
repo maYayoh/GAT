@@ -105,6 +105,9 @@ end
 function onLocation(location_id, location_name)
     local v = LOCATIONS_MAPPING[location_id]
     if not v[1] then
+        if AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
+            print(string.format("onLocation: could not find location mapping for id %s", location_id))
+        end
         return
     end
     local obj = Tracker:FindObjectForCode(v[1])
@@ -121,7 +124,7 @@ function onChangedRegion(key, current_region, old_region)
     if TABS_MAPPING[current_region] then
         CURRENT_ROOM = TABS_MAPPING[current_region]
     else
-        CURRENT_ROOM = CURRENT_ROOM_ADDRESS
+        CURRENT_ROOM = DEFAULT_ROOM
     end
     Tracker:UiHint("ActivateTab", CURRENT_ROOM)
 end

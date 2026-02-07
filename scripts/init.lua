@@ -1,3 +1,8 @@
+-- entry point for all lua code of the pack
+-- more info on the lua API: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#lua-interface
+ENABLE_DEBUG_LOG = true
+DEBUG = true
+
 -- Items
 Tracker:AddItems("items/items.json")
 Tracker:AddItems("items/modifiers.json")
@@ -9,6 +14,9 @@ ScriptHost:LoadScript("scripts/locations.lua")
 Tracker:AddLayouts("layouts/items.json")
 Tracker:AddLayouts("layouts/tracker.json")
 Tracker:AddLayouts("layouts/broadcast.json")
+
+-- AutoTracking for Poptracker
+ScriptHost:LoadScript("scripts/autotracking/archipelago.lua")
 
 -- Update total cubes with Golden and Anti counts
 local function updateTotal()

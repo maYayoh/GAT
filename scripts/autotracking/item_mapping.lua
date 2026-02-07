@@ -27,7 +27,7 @@ ITEMS = {
     { "writing_cube", "toggle" },
     { "counting_cube", "toggle" },
     { "tome_artifact", "toggle" },
-    { "love", "toggle" },
+    { "love", "consumable" },
     { "sunglasses", "toggle" },
 }
 
