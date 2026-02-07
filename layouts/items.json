@@ -31,7 +31,8 @@
                 "rows": [
                     [
                         "goal",
-                        "clock_shuffle"
+                        "clock_shuffle",
+                        "autoswitch"
                     ]
                 ]
             }
