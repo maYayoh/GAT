@@ -7,9 +7,10 @@
 
 ## About
 This is the PopTracker Pack for FezAP, the Archipelago integration mod for Fez.
+To connect to an Archipelago game, click on the [AP] button at the top, then fill the information.
 
-
-**This is currently a MANUAL tracker.**
+**The Auto Tab Switching function does not currently function because an implementation on the FezAP side is needed.**
+*You can build yourself a compatible version from [here](https://github.com/maYayoh/fez-ap/tree/tracker) if you really want the feature right now.*
 
 
 ## Requirements
@@ -17,5 +18,5 @@ This is the PopTracker Pack for FezAP, the Archipelago integration mod for Fez.
 
 ## Installation
 
-1. Download the latest release
+1. Download the latest release.
 2. Place the downloaded zip file in the PopTracker packs directory.

@@ -58,12 +58,14 @@ function onClear(slot_data)
     if ENABLE_DEBUG_LOG then
         print("Checking slot data.")
         print(string.format("goal: %s", slot_data["goal"]))
+        print(string.format("clock: %s", slot_data["shuffle_clock_antis"]))
     end
 
     if slot_data["goal"] then
         Tracker:FindObjectForCode("goal").CurrentStage = slot_data["goal"]
     end
-    
+
+    Tracker:FindObjectForCode("clock").CurrentStage = slot_data["shuffle_clock_antis"] and 1 or 0    
     Tracker:FindObjectForCode("autoswitch").CurrentStage = 1
     Archipelago:SetNotify({"Slot:" .. Archipelago.PlayerNumber .. ":current_level"})
 
@@ -121,12 +123,14 @@ function onLocation(location_id, location_name)
 end
 
 function onChangedRegion(key, current_region, old_region)
-    if TABS_MAPPING[current_region] then
-        CURRENT_ROOM = TABS_MAPPING[current_region]
-    else
-        CURRENT_ROOM = DEFAULT_ROOM
+    if Tracker:FindObjectForCode("autoswitch").CurrentStage == 1 then
+        if TABS_MAPPING[current_region] then
+            CURRENT_ROOM = TABS_MAPPING[current_region]
+        else
+            CURRENT_ROOM = DEFAULT_ROOM
+        end
+        Tracker:UiHint("ActivateTab", CURRENT_ROOM)
     end
-    Tracker:UiHint("ActivateTab", CURRENT_ROOM)
 end
 
 Archipelago:AddClearHandler("clear handler", onClear)

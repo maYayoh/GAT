@@ -23,10 +23,10 @@ ITEMS = {
     { "pivot_map", "toggle" },
     { "ritual_map", "toggle" },
     { "tree_map", "toggle" },
-    { "skull_artifact", "toggle" },
     { "writing_cube", "toggle" },
     { "counting_cube", "toggle" },
     { "tome_artifact", "toggle" },
+    { "skull_artifact", "toggle" },
     { "love", "consumable" },
     { "sunglasses", "toggle" },
 }
