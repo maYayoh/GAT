@@ -142,10 +142,10 @@ LOCATIONS = {
     { "@Zu Code Loop/Golden Cube" },
     { "@Zu Switch B/Golden Cube" },
     { "@Others/Achievement Anti-Cube\nRT RT LT RT RT LT LT LT" },
-    { "@Clock/Clock Tower Minute Anti-Cube" },
-    { "@Clock/Clock Tower Hour Anti-Cube" },
-    { "@Clock/Clock Tower Day Anti-Cube" },
-    { "@Clock/Clock Tower Week Anti-Cube" },
+    { "@Clock/Minute Anti-Cube" },
+    { "@Clock/Hour Anti-Cube" },
+    { "@Clock/Day Anti-Cube" },
+    { "@Clock/Week Anti-Cube" },
     { "@CMY Fork/Anti-Cube\nLT RT RT RT LT RT RT LT" },
     { "@Lava Fork/Anti-Cube\nLT LT RT LT LT RT RT RT" },
     { "@Sewer Fork/Anti-Cube\nLT LT LT RT LT RT LT RT" },
@@ -203,7 +203,7 @@ LOCATIONS = {
     { "@Visitor/Owl" },
     { "@Pivot One/Owl" },
     { "@Tree/Owl" },
-    { "@Boileroom/Map "},
+    { "@Boileroom/Map"},
 }
 
 LOCATIONS_MAPPING = {}

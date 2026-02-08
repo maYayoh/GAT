@@ -46,6 +46,7 @@
     "loop": true,
     "allow_disabled": false,
     "initial_stage_idx": 0,
+    "codes": "clock",
     "stages": [
       {
         "img": "images/clock.png",
@@ -83,11 +84,11 @@
     "initial_stage_idx": 0,
     "stages": [
       {
-        "img": "images/autoswitch.png"
-      },
-      {
         "img": "images/autoswitch.png",
         "img_mods": "@disabled"
+      },
+      {
+        "img": "images/autoswitch.png"
       }
     ]
   }
