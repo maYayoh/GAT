@@ -660,11 +660,6 @@
                 "name": "Cube Bit 3",
                 "chest_unopened_img": "images/icons/bit.png",
                 "chest_opened_img": "images/icons/bit_collected.png",
-              },
-              {
-                "name": "Cube Bit 4",
-                "chest_unopened_img": "images/icons/bit.png",
-                "chest_opened_img": "images/icons/bit_collected.png",
               }
             ]
           },
