@@ -277,7 +277,7 @@
               {
                 "map": "naturalregion_map",
                 "x": 2695,
-                "y": 665
+                "y": 1042
               }
             ],
             "sections": [
@@ -306,7 +306,7 @@
               {
                 "map": "naturalregion_map",
                 "x": 2221,
-                "y": 1070
+                "y": 1447
               }
             ],
             "sections": [
@@ -458,7 +458,7 @@
               {
                 "map": "naturalregion_map",
                 "x": 1498,
-                "y": 1387
+                "y": 1755
               }
             ],
             "sections": [
@@ -491,7 +491,7 @@
               {
                 "map": "naturalregion_map",
                 "x": 1461,
-                "y": 870
+                "y": 1412
               }
             ],
             "sections": [
@@ -744,7 +744,7 @@
               {
                 "map": "naturalregion_map",
                 "x": 2662,
-                "y": 149
+                "y": 526
               }
             ],
             "sections": [
@@ -767,7 +767,7 @@
               {
                 "map": "naturalregion_map",
                 "x": 1977,
-                "y": 665
+                "y": 1042
               }
             ],
             "sections": [
@@ -775,6 +775,24 @@
                 "name": "Cube Bit",
                 "chest_unopened_img": "images/icons/bit.png",
                 "chest_opened_img": "images/icons/bit_collected.png",
+              }
+            ]
+          },
+          {
+            "name": "Watertower Secret",
+            "item_count": 1,
+            "map_locations": [
+              {
+                "map": "naturalregion_map",
+                "x": 3142,
+                "y": 168
+              }
+            ],
+            "sections": [
+              {
+                "name": "Anti-Cube\nRT RT RT LT RT RT RT LT",
+                "chest_unopened_img": "images/icons/anti.png",
+                "chest_opened_img": "images/icons/anti_collected.png",
               }
             ]
           }

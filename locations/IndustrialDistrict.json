@@ -5,30 +5,12 @@
     "access_rules": ["total:2,lighthouse_room"],
     "children": [
       {
-        "name": "Watertower Secret",
-        "item_count": 1,
-        "map_locations": [
-          {
-            "map": "industrialdistrict_map",
-            "x": 2656,
-            "y": 3438
-          }
-        ],
-        "sections": [
-          {
-            "name": "Anti-Cube\nRT RT RT LT RT RT RT LT",
-            "chest_unopened_img": "images/icons/anti.png",
-            "chest_opened_img": "images/icons/anti_collected.png",
-          }
-        ]
-      },
-      {
         "name": "Pivot Watertower",
         "item_count": 1,
         "map_locations": [
           {
             "map": "industrialdistrict_map",
-            "x": 2212,
+            "x": 2209,
             "y": 2834
           }
         ],
@@ -246,7 +228,7 @@
           {
             "map": "industrialdistrict_map",
             "x": 3891,
-            "y": 756
+            "y": 755
           }
         ],
         "sections": [

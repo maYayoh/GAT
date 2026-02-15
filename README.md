@@ -1,9 +1,10 @@
-# Gomez Automated Tracker - A PopTracker pack for FezAP
+# ![thumbnail](images/icon.png) Gomez Automated Tracker - A PopTracker pack for FezAP
 
 ## Quick Links
 - [Archipelago](https://archipelago.gg/)
 - [HAT](https://github.com/FEZModding/HAT)
 - [FezAP](https://github.com/nhyldmar/fez-ap)
+- Based on [this Map](https://steamcommunity.com/sharedfiles/filedetails/?id=2811670194) by wertuias12
 
 ## About
 This is the PopTracker Pack for FezAP, the Archipelago integration mod for Fez.
@@ -17,5 +18,5 @@ This is the PopTracker Pack for FezAP, the Archipelago integration mod for Fez.
 
 ## Installation
 
-1. Download the latest release
+1. Download the latest release.
 2. Place the downloaded zip file in the PopTracker packs directory.
