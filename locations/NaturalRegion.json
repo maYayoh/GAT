@@ -58,6 +58,7 @@
                 "hosted_item": "sequence",
                 "chest_unopened_img": "images/icons/empty.png",
                 "chest_opened_img": "images/icons/empty.png",
+                "access_rules": ["[know_tetro],[nuzu_school]", "[know_tetro],[skip_knowledge]", "[not_scrambled],[skip_knowledge]"],
               },
               {
                 "name": "Glowing Door\nLeft LT Left Right RT Down Up LT",
@@ -66,6 +67,7 @@
                 "hosted_item": "sequence",
                 "chest_unopened_img": "images/icons/empty.png",
                 "chest_opened_img": "images/icons/empty.png",
+                "access_rules": ["[know_tetro],[nuzu_school]", "[know_tetro],[skip_knowledge]", "[not_scrambled],[skip_knowledge]"],
               },
               {
                 "name": "Cube Bit",
